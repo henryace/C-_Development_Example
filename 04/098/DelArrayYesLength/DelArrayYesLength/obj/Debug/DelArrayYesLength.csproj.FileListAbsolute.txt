@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\bin\Debug\DelArrayYesLength.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\bin\Debug\DelArrayYesLength.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\bin\Debug\DelArrayYesLength.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\DelArrayYesLength.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\DelArrayYesLength.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\DelArrayYesLength.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\098\DelArrayYesLength\DelArrayYesLength\obj\Debug\DelArrayYesLength.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Real-TimeToSQL">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Real-TimeToSQL.sln">
+</Property><Property Name="Date" Value="2012年10月17日">
+</Property><Property Name="Time" Value="上午 04:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Real-TimeToSQL.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL.sln">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Real-TimeToSQL.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Real-TimeToSQL.csproj">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\DataTier.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\DataTier.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\InstanceClass.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\InstanceClass.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Program.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\445\Real-TimeToSQL\Backup\Real-TimeToSQL\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Real-TimeToSQL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Real-TimeToSQL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Real-TimeToSQL.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Real-TimeToSQL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Real-TimeToSQL" Source="Real-TimeToSQL\Real-TimeToSQL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

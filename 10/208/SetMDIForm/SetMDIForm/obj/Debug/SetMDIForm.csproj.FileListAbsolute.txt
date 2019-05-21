@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\bin\Debug\SetMDIForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\bin\Debug\SetMDIForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\bin\Debug\SetMDIForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\SetMDIForm.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\SetMDIForm.Frm_Child.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\SetMDIForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\SetMDIForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\208\SetMDIForm\SetMDIForm\obj\Debug\SetMDIForm.pdb

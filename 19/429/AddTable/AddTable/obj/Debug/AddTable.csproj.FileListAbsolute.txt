@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\bin\Debug\AddTable.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\bin\Debug\AddTable.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\bin\Debug\AddTable.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\AddTable.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\AddTable.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\AddTable.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\AddTable.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\429\AddTable\AddTable\obj\Debug\AddTable.pdb

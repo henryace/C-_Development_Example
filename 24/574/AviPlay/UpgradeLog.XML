@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AviPlay">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay.suo">
+</Property><Property Name="Date" Value="2012年10月23日">
+</Property><Property Name="Time" Value="上午 10:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AviPlay.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AviPlay.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay.suo">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\AviPlay.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\AviPlay.csproj">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Program.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\Backup\AviPlay\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\AviPlay.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="AviPlay" Source="AviPlay\AviPlay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AviPlay.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AviPlay.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AviPlay" Source="AviPlay\AviPlay.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

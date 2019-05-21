@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GetRAreaByStruct">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\GetRAreaByStruct.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 16:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GetRAreaByStruct.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct.sln">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\GetRAreaByStruct.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\GetRAreaByStruct.csproj">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Form1.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Program.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\112\GetRAreaByStruct\Backup\GetRAreaByStruct\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\GetRAreaByStruct.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="GetRAreaByStruct" Source="GetRAreaByStruct\GetRAreaByStruct.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GetRAreaByStruct.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="GetRAreaByStruct.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GetRAreaByStruct" Source="GetRAreaByStruct\GetRAreaByStruct.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

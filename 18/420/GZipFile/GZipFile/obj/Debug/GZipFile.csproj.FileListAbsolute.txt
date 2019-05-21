@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\bin\Debug\GZipFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\bin\Debug\GZipFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\bin\Debug\GZipFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GZipFile.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GZipFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GZipFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\420\GZipFile\GZipFile\obj\Debug\GZipFile.pdb

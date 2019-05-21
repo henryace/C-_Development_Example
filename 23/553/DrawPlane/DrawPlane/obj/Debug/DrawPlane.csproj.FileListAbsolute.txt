@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\bin\Debug\DrawPlane.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\bin\Debug\DrawPlane.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\bin\Debug\DrawPlane.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\DrawPlane.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\DrawPlane.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\DrawPlane.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\553\DrawPlane\DrawPlane\obj\Debug\DrawPlane.pdb

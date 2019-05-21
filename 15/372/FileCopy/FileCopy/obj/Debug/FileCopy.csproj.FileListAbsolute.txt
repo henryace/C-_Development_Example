@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\FileCopy.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\372\FileCopy\FileCopy\obj\Debug\FileCopy.pdb

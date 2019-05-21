@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MD5Arithmetic">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\155\MD5Arithmetic\MD5Arithmetic.sln">
+</Property><Property Name="Date" Value="2012年5月17日">
+</Property><Property Name="Time" Value="下午 16:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MD5Arithmetic.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\155\MD5Arithmetic\Backup\MD5Arithmetic.sln">
+</Event><Event ErrorLevel="0" Project="MD5Arithmetic" Source="MD5Arithmetic\MD5Arithmetic.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\155\MD5Arithmetic\Backup\MD5Arithmetic\MD5Arithmetic.csproj">
+</Event><Event ErrorLevel="0" Project="MD5Arithmetic" Source="MD5Arithmetic\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\155\MD5Arithmetic\Backup\MD5Arithmetic\Program.cs">
+</Event><Event ErrorLevel="0" Project="MD5Arithmetic" Source="MD5Arithmetic\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\155\MD5Arithmetic\Backup\MD5Arithmetic\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MD5Arithmetic" Source="MD5Arithmetic\MD5Arithmetic.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MD5Arithmetic" Source="MD5Arithmetic\MD5Arithmetic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MD5Arithmetic.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MD5Arithmetic.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MD5Arithmetic" Source="MD5Arithmetic\MD5Arithmetic.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

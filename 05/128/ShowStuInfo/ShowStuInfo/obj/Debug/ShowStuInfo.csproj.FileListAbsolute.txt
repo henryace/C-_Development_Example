@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\bin\Debug\ShowStuInfo.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\bin\Debug\ShowStuInfo.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\bin\Debug\ShowStuInfo.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\ShowStuInfo.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\ShowStuInfo.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\ShowStuInfo.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\128\ShowStuInfo\ShowStuInfo\obj\Debug\ShowStuInfo.pdb

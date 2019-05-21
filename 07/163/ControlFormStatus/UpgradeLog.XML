@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ControlFormStatus">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\ControlFormStatus.sln">
+</Property><Property Name="Date" Value="2012年5月21日">
+</Property><Property Name="Time" Value="下午 12:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ControlFormStatus.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus.sln">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\ControlFormStatus.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\ControlFormStatus.csproj">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Program.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\登录界面标题.PNG" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\登录界面标题.PNG">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\登录界面下面.PNG" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\登录界面下面.PNG">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\关闭按钮.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\关闭按钮.jpg">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\关闭变色.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\关闭变色.jpg">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\最大化按钮.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\最大化按钮.jpg">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\最大化变色.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\最大化变色.jpg">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\最小化按钮.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\最小化按钮.jpg">
+</Event><Event ErrorLevel="2" Project="ControlFormStatus" Source="ControlFormStatus\Resources\最小化变色.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Resources\最小化变色.jpg">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\163\ControlFormStatus\Backup\ControlFormStatus\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\ControlFormStatus.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ControlFormStatus" Source="ControlFormStatus\ControlFormStatus.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ControlFormStatus.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ControlFormStatus.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ControlFormStatus" Source="ControlFormStatus\ControlFormStatus.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

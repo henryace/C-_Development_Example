@@ -1,0 +1,12 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\BeautifulProgressBar.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\BeautifulProgressBar.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\bin\Debug\BeautifulProgressBar.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\bin\Debug\BeautifulProgressBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\bin\Debug\BeautifulProgressBar.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\bin\Debug\WindowsFormsControlLibrary.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\bin\Debug\WindowsFormsControlLibrary.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\BeautifulProgressBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\BeautifulProgressBar\BeautifulProgressBar\obj\Debug\BeautifulProgressBar.pdb

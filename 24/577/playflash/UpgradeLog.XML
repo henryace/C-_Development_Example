@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="playflash">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\playflash.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\playflash.suo">
+</Property><Property Name="Date" Value="2012年10月23日">
+</Property><Property Name="Time" Value="上午 10:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="playflash.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash.sln">
+</Event><Event ErrorLevel="0" Project="" Source="playflash.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash.suo">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\playflash.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\playflash.csproj">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Program.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\bg1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\bg1.png">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\577\playflash\Backup\playflash\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\playflash.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="playflash" Source="playflash\playflash.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="playflash.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="playflash.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="playflash" Source="playflash\playflash.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

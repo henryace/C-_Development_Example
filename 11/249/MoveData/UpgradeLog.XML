@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MoveData">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData.sln">
+</Property><Property Name="Date" Value="2012年6月29日">
+</Property><Property Name="Time" Value="下午 12:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MoveData.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData.sln">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\MoveData.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\MoveData.csproj">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Program.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\Backup\MoveData\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\MoveData.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MoveData" Source="MoveData\MoveData.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MoveData.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MoveData.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MoveData" Source="MoveData\MoveData.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

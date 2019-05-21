@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsControlLibrary">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\WindowsFormsControlLibrary.sln">
+</Property><Property Name="Date" Value="2012年10月8日">
+</Property><Property Name="Time" Value="下午 22:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsFormsControlLibrary.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary.sln">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\SmoothProgressBar.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary\SmoothProgressBar.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\SmoothProgressBar.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary\SmoothProgressBar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\SmoothProgressBar.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\352\BeautifulProgressBar\WindowsFormsControlLibrary\Backup\WindowsFormsControlLibrary\SmoothProgressBar.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsControlLibrary.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsControlLibrary.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsControlLibrary" Source="WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

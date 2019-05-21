@@ -1,0 +1,34 @@
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.exe
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.pdb
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\ResolveAssemblyReference.cache
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Properties.Resources.resources
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.SnatchDisplayDeviceRefresh.resources
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.csproj.GenerateResource.Cache
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.exe
+F:\范例宝典（升级版范例）\Ex05_195\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.SnatchDisplayDeviceRefresh.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_20\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.exe
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.pdb
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.exe
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.pdb
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Properties.Resources.resources
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Frm_Main.resources
+E:\源码\C#范例大全\24\014\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.csproj.GenerateResource.Cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\bin\Debug\SnatchDisplayDeviceRefresh.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\594\SnatchDisplayDeviceRefresh\SnatchDisplayDeviceRefresh\obj\Debug\SnatchDisplayDeviceRefresh.pdb

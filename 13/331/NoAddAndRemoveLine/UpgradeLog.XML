@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NoAddAndRemoveLine">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine.sln">
+</Property><Property Name="Date" Value="2012年10月7日">
+</Property><Property Name="Time" Value="下午 23:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NoAddAndRemoveLine.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine.sln">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\NoAddAndRemoveLine.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\NoAddAndRemoveLine.csproj">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Fruit.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Fruit.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Program.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\Backup\NoAddAndRemoveLine\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\NoAddAndRemoveLine.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\NoAddAndRemoveLine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NoAddAndRemoveLine.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="NoAddAndRemoveLine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NoAddAndRemoveLine" Source="NoAddAndRemoveLine\NoAddAndRemoveLine.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

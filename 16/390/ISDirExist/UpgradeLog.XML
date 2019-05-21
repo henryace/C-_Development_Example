@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ISDirExist">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\ISDirExist.sln">
+</Property><Property Name="Date" Value="2012年10月11日">
+</Property><Property Name="Time" Value="上午 10:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ISDirExist.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist.sln">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\ISDirExist.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\ISDirExist.csproj">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Program.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\390\ISDirExist\Backup\ISDirExist\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\ISDirExist.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ISDirExist" Source="ISDirExist\ISDirExist.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ISDirExist.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ISDirExist.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ISDirExist" Source="ISDirExist\ISDirExist.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

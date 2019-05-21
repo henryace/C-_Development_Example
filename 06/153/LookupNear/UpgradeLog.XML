@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LookupNear">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear.sln">
+</Property><Property Name="Date" Value="2012年5月17日">
+</Property><Property Name="Time" Value="下午 16:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LookupNear.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear.sln">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\LookupNear.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\LookupNear.csproj">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Program.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\Backup\LookupNear\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\LookupNear.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="LookupNear" Source="LookupNear\LookupNear.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LookupNear.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="LookupNear.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LookupNear" Source="LookupNear\LookupNear.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

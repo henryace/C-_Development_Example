@@ -1,0 +1,26 @@
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.exe
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.pdb
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Frm_Main.resources
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Properties.Resources.resources
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.exe
+E:\源码\C#范例大全\21\030\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\bin\Debug\WatermarkImage.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\523\WatermarkImage\WatermarkImage\obj\Debug\WatermarkImage.pdb

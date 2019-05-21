@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileExt">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\FileExt.sln">
+</Property><Property Name="Date" Value="2012年10月9日">
+</Property><Property Name="Time" Value="下午 16:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileExt.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt.sln">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\FileExt.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\FileExt.csproj">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Program.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\356\FileExt\Backup\FileExt\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\FileExt.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="FileExt" Source="FileExt\FileExt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileExt.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="FileExt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileExt" Source="FileExt\FileExt.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AddLetter">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter.sln">
+</Property><Property Name="Date" Value="2012年10月14日">
+</Property><Property Name="Time" Value="下午 16:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AddLetter.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter.sln">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\AddLetter.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\AddLetter.csproj">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Program.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\Backup\AddLetter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\AddLetter.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="AddLetter" Source="AddLetter\AddLetter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AddLetter.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AddLetter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AddLetter" Source="AddLetter\AddLetter.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

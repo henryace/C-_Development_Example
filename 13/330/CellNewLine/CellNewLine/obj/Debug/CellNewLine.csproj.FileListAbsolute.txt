@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\bin\Debug\CellNewLine.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\bin\Debug\CellNewLine.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\bin\Debug\CellNewLine.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\CellNewLine.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\CellNewLine.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\CellNewLine.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\330\CellNewLine\CellNewLine\obj\Debug\CellNewLine.pdb

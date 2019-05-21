@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\bin\Debug\GridToWord.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\bin\Debug\GridToWord.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\bin\Debug\GridToWord.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GridToWord.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GridToWord.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GridToWord.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GridToWord.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\341\GridToWord\GridToWord\obj\Debug\GridToWord.pdb

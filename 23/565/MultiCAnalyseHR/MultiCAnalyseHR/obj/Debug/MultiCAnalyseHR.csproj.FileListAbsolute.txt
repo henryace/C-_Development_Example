@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\bin\Debug\MultiCAnalyseHR.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\bin\Debug\MultiCAnalyseHR.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\bin\Debug\MultiCAnalyseHR.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\MultiCAnalyseHR.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\MultiCAnalyseHR.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\MultiCAnalyseHR.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\565\MultiCAnalyseHR\MultiCAnalyseHR\obj\Debug\MultiCAnalyseHR.pdb

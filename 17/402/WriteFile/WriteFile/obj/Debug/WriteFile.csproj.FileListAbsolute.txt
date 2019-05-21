@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\bin\Debug\WriteFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\WriteFile.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\WriteFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\WriteFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\402\WriteFile\WriteFile\obj\Debug\WriteFile.pdb

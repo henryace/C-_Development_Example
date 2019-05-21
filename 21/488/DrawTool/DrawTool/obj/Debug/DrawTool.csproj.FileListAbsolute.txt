@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\bin\Debug\DrawTool.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\bin\Debug\DrawTool.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\bin\Debug\DrawTool.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\DrawTool.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\DrawTool.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\DrawTool.Frm_Text.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\DrawTool.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\488\DrawTool\DrawTool\obj\Debug\DrawTool.pdb

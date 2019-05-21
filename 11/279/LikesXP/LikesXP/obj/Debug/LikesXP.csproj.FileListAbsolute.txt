@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\bin\Debug\LikesXP.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\bin\Debug\LikesXP.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\bin\Debug\LikesXP.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\LikesXP.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\LikesXP.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\LikesXP.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\279\LikesXP\LikesXP\obj\Debug\LikesXP.pdb

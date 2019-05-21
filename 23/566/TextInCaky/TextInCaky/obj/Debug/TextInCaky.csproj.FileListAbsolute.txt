@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\bin\Debug\TextInCaky.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\bin\Debug\TextInCaky.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\bin\Debug\TextInCaky.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\TextInCaky.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\TextInCaky.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\TextInCaky.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\566\TextInCaky\TextInCaky\obj\Debug\TextInCaky.pdb

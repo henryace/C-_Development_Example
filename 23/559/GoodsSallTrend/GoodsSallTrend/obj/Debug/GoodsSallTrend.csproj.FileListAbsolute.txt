@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\bin\Debug\GoodsSallTrend.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\bin\Debug\GoodsSallTrend.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\bin\Debug\GoodsSallTrend.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GoodsSallTrend.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GoodsSallTrend.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GoodsSallTrend.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\559\GoodsSallTrend\GoodsSallTrend\obj\Debug\GoodsSallTrend.pdb

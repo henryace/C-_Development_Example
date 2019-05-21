@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChuffedFarm">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\ChuffedFarm.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\ChuffedFarm.suo">
+</Property><Property Name="Date" Value="2012年10月24日">
+</Property><Property Name="Time" Value="上午 09:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ChuffedFarm.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ChuffedFarm.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm.suo">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\ChuffedFarm.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\ChuffedFarm.csproj">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\CPictureBox.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\CPictureBox.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\CPictureBox.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\CPictureBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\PlantState.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\PlantState.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Program.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\Thumbs.db" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\Thumbs.db">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\seed2.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\seed2.png">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\bloom.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\bloom.png">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\fruit.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\fruit.png">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\grow.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\grow.png">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\plowland.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\plowland.jpg">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\images\seed.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\seed.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\开花.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\开花.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\开花1.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\开花1.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\播种.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\播种.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\播种1.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\播种1.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\收获.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\收获.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\收获1.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\收获1.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\生长.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\生长.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\生长1.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\生长1.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\结果.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\结果.png">
+</Event><Event ErrorLevel="2" Project="ChuffedFarm" Source="ChuffedFarm\images\结果1.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\images\结果1.png">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\551\ChuffedFarm\Backup\ChuffedFarm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\ChuffedFarm.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ChuffedFarm" Source="ChuffedFarm\ChuffedFarm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChuffedFarm.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ChuffedFarm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChuffedFarm" Source="ChuffedFarm\ChuffedFarm.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

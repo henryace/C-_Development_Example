@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ManageFileByType">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType.sln">
+</Property><Property Name="Date" Value="2012年10月11日">
+</Property><Property Name="Time" Value="下午 12:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ManageFileByType.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType.sln">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\ManageFileByType.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\ManageFileByType.csproj">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Program.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\Backup\ManageFileByType\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\ManageFileByType.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ManageFileByType" Source="ManageFileByType\ManageFileByType.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ManageFileByType.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ManageFileByType.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ManageFileByType" Source="ManageFileByType\ManageFileByType.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

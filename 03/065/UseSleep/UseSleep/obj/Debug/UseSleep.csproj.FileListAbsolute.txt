@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\bin\Debug\UseSleep.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\bin\Debug\UseSleep.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\bin\Debug\UseSleep.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\UseSleep.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\UseSleep.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\UseSleep.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\065\UseSleep\UseSleep\obj\Debug\UseSleep.pdb

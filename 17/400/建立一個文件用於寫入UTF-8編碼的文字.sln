@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "创建一个文件用于写入UTF-8编码的文本", "创建一个文件用于写入UTF-8编码的文本.exe", "{A7E3A329-0F82-4092-B0E7-CBC72C69F850}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\400\创建一个文件用于写入UTF-8编码的文本.exe
+		RemoteMachine = DANTE-PC
+		StartingDirectory = D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\400
+		Environment = 預設
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E3A329-0F82-4092-B0E7-CBC72C69F850}.Debug|Default.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

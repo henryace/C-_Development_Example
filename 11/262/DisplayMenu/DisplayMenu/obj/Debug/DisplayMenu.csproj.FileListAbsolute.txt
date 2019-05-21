@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\bin\Debug\DisplayMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\bin\Debug\DisplayMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\bin\Debug\DisplayMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\DisplayMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\DisplayMenu.Form2.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\DisplayMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\DisplayMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\262\DisplayMenu\DisplayMenu\obj\Debug\DisplayMenu.pdb

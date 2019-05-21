@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MP3Player">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player.suo">
+</Property><Property Name="Date" Value="2012年10月23日">
+</Property><Property Name="Time" Value="上午 11:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MP3Player.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MP3Player.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player.suo">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\MP3Player.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\MP3Player.csproj">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Program.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Resources\player.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Resources\player.png">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\player11.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\player11.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\停止按钮.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\停止按钮.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\停止按钮变.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\停止按钮变.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\播放按钮.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\播放按钮.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\播放按钮变.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\播放按钮变.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\文件夹打开.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\文件夹打开.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\暂停按钮.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\暂停按钮.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\暂停按钮变.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\暂停按钮变.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\音量按钮.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\音量按钮.png">
+</Event><Event ErrorLevel="2" Project="MP3Player" Source="MP3Player\音量按钮变色.png" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\音量按钮变色.png">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\Backup\MP3Player\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\MP3Player.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MP3Player" Source="MP3Player\MP3Player.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MP3Player.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MP3Player.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MP3Player" Source="MP3Player\MP3Player.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,15 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\bin\Debug\OfficeAgent.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\bin\Debug\OfficeAgent.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\bin\Debug\OfficeAgent.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\bin\Debug\Interop.AgentObjects.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\bin\Debug\AxInterop.AgentObjects.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\Interop.AgentObjects.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\AxInterop.AgentObjects.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\OfficeAgent.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\OfficeAgent.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\OfficeAgent.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\OfficeAgent.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\190\OfficeAgent\obj\Debug\OfficeAgent.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\bin\Debug\SquareByMethod.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\bin\Debug\SquareByMethod.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\bin\Debug\SquareByMethod.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\SquareByMethod.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\SquareByMethod.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\SquareByMethod.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\110\SquareByMethod\SquareByMethod\obj\Debug\SquareByMethod.pdb

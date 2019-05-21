@@ -1,0 +1,16 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\bin\Debug\RefreshFormByChildForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\bin\Debug\RefreshFormByChildForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\bin\Debug\RefreshFormByChildForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\bin\Debug\Interop.MSComCtl2.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\bin\Debug\AxInterop.MSComCtl2.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\Interop.MSComCtl2.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\AxInterop.MSComCtl2.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.Frm_Child.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\197\RefreshFormByChildForm\obj\Debug\RefreshFormByChildForm.pdb

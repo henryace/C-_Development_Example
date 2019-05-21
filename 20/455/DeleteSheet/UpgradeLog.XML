@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DeleteSheet">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\DeleteSheet.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\DeleteSheet.suo">
+</Property><Property Name="Date" Value="2012年10月18日">
+</Property><Property Name="Time" Value="上午 11:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DeleteSheet.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DeleteSheet.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet.suo">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\DeleteSheet.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\DeleteSheet.csproj">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Program.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\455\DeleteSheet\Backup\DeleteSheet\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\DeleteSheet.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DeleteSheet" Source="DeleteSheet\DeleteSheet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DeleteSheet.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DeleteSheet.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeleteSheet" Source="DeleteSheet\DeleteSheet.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

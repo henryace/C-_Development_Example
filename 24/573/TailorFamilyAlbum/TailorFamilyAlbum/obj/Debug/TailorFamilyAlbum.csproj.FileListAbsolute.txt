@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\bin\Debug\TailorFamilyAlbum.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\bin\Debug\TailorFamilyAlbum.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\bin\Debug\TailorFamilyAlbum.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\TailorFamilyAlbum.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\TailorFamilyAlbum.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\TailorFamilyAlbum.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\573\TailorFamilyAlbum\TailorFamilyAlbum\obj\Debug\TailorFamilyAlbum.pdb

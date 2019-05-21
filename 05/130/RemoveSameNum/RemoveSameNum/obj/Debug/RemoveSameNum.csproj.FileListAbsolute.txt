@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\bin\Debug\RemoveSameNum.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\bin\Debug\RemoveSameNum.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\bin\Debug\RemoveSameNum.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\RemoveSameNum.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\RemoveSameNum.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\RemoveSameNum.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\130\RemoveSameNum\RemoveSameNum\obj\Debug\RemoveSameNum.pdb

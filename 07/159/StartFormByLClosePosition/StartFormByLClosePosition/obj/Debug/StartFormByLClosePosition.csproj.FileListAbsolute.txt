@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\bin\Debug\StartFormByLClosePosition.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\bin\Debug\StartFormByLClosePosition.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\bin\Debug\StartFormByLClosePosition.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\StartFormByLClosePosition.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\StartFormByLClosePosition.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\StartFormByLClosePosition.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\159\StartFormByLClosePosition\StartFormByLClosePosition\obj\Debug\StartFormByLClosePosition.pdb

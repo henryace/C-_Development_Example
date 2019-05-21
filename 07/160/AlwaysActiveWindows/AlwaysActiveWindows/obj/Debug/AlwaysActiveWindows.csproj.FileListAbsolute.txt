@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\bin\Debug\AlwaysActiveWindows.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\bin\Debug\AlwaysActiveWindows.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\bin\Debug\AlwaysActiveWindows.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\AlwaysActiveWindows.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\AlwaysActiveWindows.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\AlwaysActiveWindows.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\160\AlwaysActiveWindows\AlwaysActiveWindows\obj\Debug\AlwaysActiveWindows.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\bin\Debug\AddLetter.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\bin\Debug\AddLetter.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\bin\Debug\AddLetter.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\AddLetter.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\AddLetter.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\AddLetter.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\AddLetter.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\427\AddLetter\AddLetter\obj\Debug\AddLetter.pdb

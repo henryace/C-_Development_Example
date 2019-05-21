@@ -1,0 +1,16 @@
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ResolveAssemblyReference.cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.Properties.Resources.resources
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.csproj.GenerateResource.Cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.doc
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ResolveAssemblyReference.cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.Properties.Resources.resources
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.csproj.GenerateResource.Cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.doc
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.pdb

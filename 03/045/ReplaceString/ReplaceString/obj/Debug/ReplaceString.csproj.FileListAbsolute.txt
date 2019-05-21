@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\bin\Debug\ReplaceString.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\ReplaceString.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\ReplaceString.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\ReplaceString.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\045\ReplaceString\ReplaceString\obj\Debug\ReplaceString.pdb

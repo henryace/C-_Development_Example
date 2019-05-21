@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\bin\Debug\CellValidate.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\bin\Debug\CellValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\bin\Debug\CellValidate.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\CellValidate.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\CellValidate.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\CellValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\329\CellValidate\CellValidate\obj\Debug\CellValidate.pdb

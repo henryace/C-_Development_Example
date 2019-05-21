@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Code Commentate">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\015\Code Commentate\Code Commentate.sln">
+</Property><Property Name="Date" Value="2012年5月4日">
+</Property><Property Name="Time" Value="上午 02:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Code Commentate.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\015\Code Commentate\Backup\Code Commentate.sln">
+</Event><Event ErrorLevel="0" Project="Code Commentate" Source="Code Commentate\Code Commentate.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\015\Code Commentate\Backup\Code Commentate\Code Commentate.csproj">
+</Event><Event ErrorLevel="0" Project="Code Commentate" Source="Code Commentate\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\015\Code Commentate\Backup\Code Commentate\Program.cs">
+</Event><Event ErrorLevel="0" Project="Code Commentate" Source="Code Commentate\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\015\Code Commentate\Backup\Code Commentate\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Code Commentate" Source="Code Commentate\Code Commentate.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Code Commentate" Source="Code Commentate\Code Commentate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Code Commentate.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Code Commentate.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Code Commentate" Source="Code Commentate\Code Commentate.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

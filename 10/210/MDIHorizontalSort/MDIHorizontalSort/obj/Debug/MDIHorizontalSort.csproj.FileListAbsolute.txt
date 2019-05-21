@@ -1,0 +1,13 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\bin\Debug\MDIHorizontalSort.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\bin\Debug\MDIHorizontalSort.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\bin\Debug\MDIHorizontalSort.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.Frm_ChildOne.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.Frm_ChildTwo.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.Frm_ChildThree.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\210\MDIHorizontalSort\MDIHorizontalSort\obj\Debug\MDIHorizontalSort.pdb

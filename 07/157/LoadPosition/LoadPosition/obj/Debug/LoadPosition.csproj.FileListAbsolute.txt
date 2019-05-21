@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\bin\Debug\LoadPosition.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\bin\Debug\LoadPosition.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\bin\Debug\LoadPosition.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\LoadPosition.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\LoadPosition.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\LoadPosition.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition\obj\Debug\LoadPosition.pdb

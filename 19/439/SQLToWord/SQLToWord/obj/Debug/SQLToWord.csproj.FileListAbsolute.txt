@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\bin\Debug\SQLToWord.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\bin\Debug\SQLToWord.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\bin\Debug\SQLToWord.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\SQLToWord.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\SQLToWord.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\SQLToWord.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\SQLToWord.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\439\SQLToWord\SQLToWord\obj\Debug\SQLToWord.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\bin\Debug\ValidateInteger.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\bin\Debug\ValidateInteger.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\bin\Debug\ValidateInteger.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\ValidateInteger.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\ValidateInteger.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\ValidateInteger.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\080\ValidateInteger\ValidateInteger\obj\Debug\ValidateInteger.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\bin\Debug\PicPlay.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\bin\Debug\PicPlay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\bin\Debug\PicPlay.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\PicPlay.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\PicPlay.Frm_Browser.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\PicPlay.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\PicPlay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\571\PicPlay\PicPlay\obj\Debug\PicPlay.pdb

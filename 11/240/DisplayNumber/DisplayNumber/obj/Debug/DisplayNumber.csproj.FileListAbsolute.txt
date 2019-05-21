@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\DisplayNumber.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\bin\Debug\DisplayNumber.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\bin\Debug\DisplayNumber.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\bin\Debug\DisplayNumber.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\DisplayNumber.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\DisplayNumber.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\240\DisplayNumber\DisplayNumber\obj\Debug\DisplayNumber.pdb

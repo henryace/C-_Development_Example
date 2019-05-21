@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StackApply">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\133\StackApply\StackApply.sln">
+</Property><Property Name="Date" Value="2012年5月16日">
+</Property><Property Name="Time" Value="下午 18:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="StackApply.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\133\StackApply\Backup\StackApply.sln">
+</Event><Event ErrorLevel="0" Project="StackApply" Source="StackApply\StackApply.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\133\StackApply\Backup\StackApply\StackApply.csproj">
+</Event><Event ErrorLevel="0" Project="StackApply" Source="StackApply\CStack.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\133\StackApply\Backup\StackApply\CStack.cs">
+</Event><Event ErrorLevel="0" Project="StackApply" Source="StackApply\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\133\StackApply\Backup\StackApply\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="StackApply" Source="StackApply\StackApply.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="StackApply" Source="StackApply\StackApply.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StackApply.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="StackApply.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StackApply" Source="StackApply\StackApply.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

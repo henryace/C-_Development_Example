@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\bin\Debug\GetYesterDay.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\bin\Debug\GetYesterDay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\bin\Debug\GetYesterDay.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GetYesterDay.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GetYesterDay.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GetYesterDay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\060\GetYesterDay\GetYesterDay\obj\Debug\GetYesterDay.pdb

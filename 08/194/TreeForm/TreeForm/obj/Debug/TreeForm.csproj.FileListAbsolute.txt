@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\bin\Debug\TreeForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\bin\Debug\TreeForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\bin\Debug\TreeForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\TreeForm.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\TreeForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\TreeForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\194\TreeForm\TreeForm\obj\Debug\TreeForm.pdb

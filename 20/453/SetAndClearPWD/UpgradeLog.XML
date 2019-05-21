@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SetAndClearPWD">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\SetAndClearPWD.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\SetAndClearPWD.suo">
+</Property><Property Name="Date" Value="2012年10月17日">
+</Property><Property Name="Time" Value="下午 17:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SetAndClearPWD.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SetAndClearPWD.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD.suo">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\SetAndClearPWD.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\SetAndClearPWD.csproj">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Program.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\453\SetAndClearPWD\Backup\SetAndClearPWD\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\SetAndClearPWD.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="SetAndClearPWD" Source="SetAndClearPWD\SetAndClearPWD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SetAndClearPWD.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="SetAndClearPWD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetAndClearPWD" Source="SetAndClearPWD\SetAndClearPWD.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

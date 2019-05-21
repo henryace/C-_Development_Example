@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\bin\Debug\ReverseStr.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\bin\Debug\ReverseStr.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\bin\Debug\ReverseStr.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\ReverseStr.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\ReverseStr.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\ReverseStr.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\041\ReverseStr\ReverseStr\obj\Debug\ReverseStr.pdb

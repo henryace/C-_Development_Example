@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CreateDir">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\CreateDir.sln">
+</Property><Property Name="Date" Value="2012年10月11日">
+</Property><Property Name="Time" Value="上午 11:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CreateDir.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir.sln">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\CreateDir.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\CreateDir.csproj">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Program.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\391\CreateDir\Backup\CreateDir\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\CreateDir.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="CreateDir" Source="CreateDir\CreateDir.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CreateDir.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="CreateDir.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CreateDir" Source="CreateDir\CreateDir.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

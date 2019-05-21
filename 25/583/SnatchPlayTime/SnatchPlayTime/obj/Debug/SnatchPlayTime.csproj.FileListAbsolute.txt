@@ -1,0 +1,49 @@
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.SnatchPlayTime.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.GenerateResource.Cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_09\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.pdb
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.exe
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.pdb
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.exe
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.pdb
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Properties.Resources.resources
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Frm_Main.resources
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\bin\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\bin\Debug\AxInterop.WMPLib.dll
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\AxInterop.WMPLib.dll
+E:\源码\C#范例大全\24\003\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.ResolveComReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\Interop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\AxInterop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\Interop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\AxInterop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.ResolveComReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\SnatchPlayTime.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\583\SnatchPlayTime\SnatchPlayTime\obj\Debug\SnatchPlayTime.pdb

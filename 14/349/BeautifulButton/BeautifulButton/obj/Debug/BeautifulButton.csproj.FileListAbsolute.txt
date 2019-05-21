@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\bin\Debug\BeautifulButton.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\bin\Debug\BeautifulButton.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\bin\Debug\BeautifulButton.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\BeautifulButton.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\BeautifulButton.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\BeautifulButton.TransparencyButton.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\BeautifulButton.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\349\BeautifulButton\BeautifulButton\obj\Debug\BeautifulButton.pdb

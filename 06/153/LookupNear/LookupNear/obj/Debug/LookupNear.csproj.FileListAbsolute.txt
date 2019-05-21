@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\bin\Debug\LookupNear.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\bin\Debug\LookupNear.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\bin\Debug\LookupNear.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\LookupNear.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\LookupNear.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\LookupNear.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\153\LookupNear\LookupNear\obj\Debug\LookupNear.pdb

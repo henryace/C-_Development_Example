@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\bin\Debug\WordToMulti-Txt.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\bin\Debug\WordToMulti-Txt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\bin\Debug\WordToMulti-Txt.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\WordToMulti-Txt.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\WordToMulti_Txt.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\WordToMulti_Txt.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\WordToMulti-Txt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\442\WordToMulti-Txt\WordToMulti-Txt\obj\Debug\WordToMulti-Txt.pdb

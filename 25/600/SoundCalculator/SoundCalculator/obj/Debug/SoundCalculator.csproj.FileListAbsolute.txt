@@ -1,0 +1,29 @@
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Form1.resources
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Properties.Resources.resources
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.csproj.GenerateResource.Cache
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.exe
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.pdb
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.exe
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.pdb
+E:\2009年的工作任务\音乐播放\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Form2.resources
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.exe
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.pdb
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Frm_Main.resources
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Frm_Set.resources
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Properties.Resources.resources
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.exe
+E:\源码\C#范例大全\24\020\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\bin\Debug\SoundCalculator.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Frm_Set.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\600\SoundCalculator\SoundCalculator\obj\Debug\SoundCalculator.pdb

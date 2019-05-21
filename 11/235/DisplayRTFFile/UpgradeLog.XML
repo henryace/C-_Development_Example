@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DisplayRTFFile">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\DisplayRTFFile.sln">
+</Property><Property Name="Date" Value="2012年6月28日">
+</Property><Property Name="Time" Value="下午 15:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DisplayRTFFile.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile.sln">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\DisplayRTFFile.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\DisplayRTFFile.csproj">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Form1.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Program.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\235\DisplayRTFFile\Backup\DisplayRTFFile\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\DisplayRTFFile.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DisplayRTFFile" Source="DisplayRTFFile\DisplayRTFFile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DisplayRTFFile.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DisplayRTFFile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DisplayRTFFile" Source="DisplayRTFFile\DisplayRTFFile.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

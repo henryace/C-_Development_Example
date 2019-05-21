@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\bin\Debug\WordToAccess.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\bin\Debug\WordToAccess.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\bin\Debug\WordToAccess.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\WordToAccess.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\WordToAccess.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\WordToAccess.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\WordToAccess.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\443\WordToAccess\WordToAccess\obj\Debug\WordToAccess.pdb

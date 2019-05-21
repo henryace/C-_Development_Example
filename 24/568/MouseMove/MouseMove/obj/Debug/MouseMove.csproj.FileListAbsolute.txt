@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\bin\Debug\MouseMove.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\bin\Debug\MouseMove.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\bin\Debug\MouseMove.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\MouseMove.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\MouseMove.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\MouseMove.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\568\MouseMove\MouseMove\obj\Debug\MouseMove.pdb

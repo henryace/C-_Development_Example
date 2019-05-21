@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Conversion">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Conversion.sln">
+</Property><Property Name="Date" Value="2012年5月10日">
+</Property><Property Name="Time" Value="下午 22:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Conversion.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion.sln">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Conversion.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Conversion.csproj">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Program.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Transform.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Transform.cs">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\052\Conversion\Backup\Conversion\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Conversion.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Conversion" Source="Conversion\Conversion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Conversion.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Conversion.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Conversion" Source="Conversion\Conversion.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

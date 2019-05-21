@@ -1,0 +1,12 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\bin\Debug\MagnetismForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\bin\Debug\MagnetismForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\bin\Debug\MagnetismForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.Frm_Libretto.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.Frm_ListBox.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.Frm_Play.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\obj\Debug\MagnetismForm.pdb

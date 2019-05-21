@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\ControlFormSize.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\ControlFormSize.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\bin\Debug\ControlFormSize.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\bin\Debug\ControlFormSize.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\bin\Debug\ControlFormSize.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\ControlFormSize.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\161\ControlFormSize\ControlFormSize\obj\Debug\ControlFormSize.pdb

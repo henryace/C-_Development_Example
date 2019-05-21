@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BlackandWhiteImage">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\BlackandWhiteImage.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\BlackandWhiteImage.suo">
+</Property><Property Name="Date" Value="2012年10月24日">
+</Property><Property Name="Time" Value="上午 00:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BlackandWhiteImage.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BlackandWhiteImage.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage.suo">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\BlackandWhiteImage.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\BlackandWhiteImage.csproj">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Program.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\522\BlackandWhiteImage\Backup\BlackandWhiteImage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\BlackandWhiteImage.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="BlackandWhiteImage" Source="BlackandWhiteImage\BlackandWhiteImage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BlackandWhiteImage.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="BlackandWhiteImage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BlackandWhiteImage" Source="BlackandWhiteImage\BlackandWhiteImage.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SetSoftInfo">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\SetSoftInfo.sln">
+</Property><Property Name="Date" Value="2012年4月11日">
+</Property><Property Name="Time" Value="上午 06:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SetSoftInfo.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo.sln">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\SetSoftInfo.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\SetSoftInfo.csproj">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Form1.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Program.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\005\SetSoftInfo\Backup\SetSoftInfo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\SetSoftInfo.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="SetSoftInfo" Source="SetSoftInfo\SetSoftInfo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SetSoftInfo.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="SetSoftInfo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetSoftInfo" Source="SetSoftInfo\SetSoftInfo.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

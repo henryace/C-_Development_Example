@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InheritFormByDesign">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign.sln">
+</Property><Property Name="Date" Value="2012年5月23日">
+</Property><Property Name="Time" Value="下午 15:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InheritFormByDesign.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign.sln">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\InheritFormByDesign.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\InheritFormByDesign.csproj">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Inherit.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Inherit.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Inherit.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Inherit.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Program.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Inherit.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Inherit.resx">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\Backup\InheritFormByDesign\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\InheritFormByDesign.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="InheritFormByDesign" Source="InheritFormByDesign\InheritFormByDesign.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InheritFormByDesign.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="InheritFormByDesign.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InheritFormByDesign" Source="InheritFormByDesign\InheritFormByDesign.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

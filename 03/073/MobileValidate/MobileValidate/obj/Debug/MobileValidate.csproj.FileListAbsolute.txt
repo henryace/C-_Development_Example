@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\bin\Debug\MobileValidate.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\bin\Debug\MobileValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\bin\Debug\MobileValidate.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\MobileValidate.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\MobileValidate.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\MobileValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\073\MobileValidate\MobileValidate\obj\Debug\MobileValidate.pdb

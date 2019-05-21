@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\bin\Debug\ClearRecycle.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\bin\Debug\ClearRecycle.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\bin\Debug\ClearRecycle.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\ClearRecycle.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\ClearRecycle.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\ClearRecycle.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\364\ClearRecycle\ClearRecycle\obj\Debug\ClearRecycle.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\bin\Debug\GatherDataAnalyse.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\bin\Debug\GatherDataAnalyse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\bin\Debug\GatherDataAnalyse.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GatherDataAnalyse.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GatherDataAnalyse.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GatherDataAnalyse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\554\GatherDataAnalyse\GatherDataAnalyse\obj\Debug\GatherDataAnalyse.pdb

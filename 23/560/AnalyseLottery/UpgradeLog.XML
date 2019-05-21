@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AnalyseLottery">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\AnalyseLottery.sln">
+</Property><Property Name="Date" Value="2012年10月22日">
+</Property><Property Name="Time" Value="下午 20:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AnalyseLottery.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery.sln">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\AnalyseLottery.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\AnalyseLottery.csproj">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Program.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\560\AnalyseLottery\Backup\AnalyseLottery\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\AnalyseLottery.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="AnalyseLottery" Source="AnalyseLottery\AnalyseLottery.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AnalyseLottery.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AnalyseLottery.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnalyseLottery" Source="AnalyseLottery\AnalyseLottery.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

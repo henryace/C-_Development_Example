@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SelectXMLByHasTable">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 13:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SelectXMLByHasTable.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable.sln">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\SelectXMLByHasTable.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\SelectXMLByHasTable.csproj">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Program.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\Backup\SelectXMLByHasTable\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\SelectXMLByHasTable.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\SelectXMLByHasTable.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SelectXMLByHasTable.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="SelectXMLByHasTable.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SelectXMLByHasTable" Source="SelectXMLByHasTable\SelectXMLByHasTable.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

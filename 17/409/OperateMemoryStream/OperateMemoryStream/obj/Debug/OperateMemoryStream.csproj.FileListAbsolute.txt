@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\bin\Debug\OperateMemoryStream.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\bin\Debug\OperateMemoryStream.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\bin\Debug\OperateMemoryStream.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\OperateMemoryStream.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\OperateMemoryStream.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\OperateMemoryStream.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\409\OperateMemoryStream\OperateMemoryStream\obj\Debug\OperateMemoryStream.pdb

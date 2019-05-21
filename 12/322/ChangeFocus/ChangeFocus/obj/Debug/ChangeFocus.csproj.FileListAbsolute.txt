@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\bin\Debug\ChangeFocus.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\bin\Debug\ChangeFocus.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\bin\Debug\ChangeFocus.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\ChangeFocus.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\ChangeFocus.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\ChangeFocus.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\322\ChangeFocus\ChangeFocus\obj\Debug\ChangeFocus.pdb

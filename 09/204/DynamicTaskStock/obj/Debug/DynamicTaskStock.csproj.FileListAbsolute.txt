@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\bin\Debug\DynamicTaskStock.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\bin\Debug\DynamicTaskStock.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\bin\Debug\DynamicTaskStock.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\DynamicTaskStock.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\DynamicTaskStock.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\DynamicTaskStock.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\204\DynamicTaskStock\obj\Debug\DynamicTaskStock.pdb

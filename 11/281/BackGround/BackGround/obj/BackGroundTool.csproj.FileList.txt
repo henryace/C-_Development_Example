@@ -1,0 +1,8 @@
+bin\Debug\BackGroundTool.exe
+bin\Debug\BackGroundTool.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BackGroundTool.Form1.resources
+obj\Debug\BackGroundTool.Properties.Resources.resources
+obj\Debug\BackGroundTool.csproj.GenerateResource.Cache
+obj\Debug\BackGroundTool.exe
+obj\Debug\BackGroundTool.pdb

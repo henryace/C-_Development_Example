@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MDIVerticalSort">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort.sln">
+</Property><Property Name="Date" Value="2012年5月23日">
+</Property><Property Name="Time" Value="下午 14:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MDIVerticalSort.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort.sln">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\MDIVerticalSort.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\MDIVerticalSort.csproj">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildOne.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildOne.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildOne.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildOne.designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildThree.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildThree.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildThree.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildThree.designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildTwo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildTwo.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildTwo.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildTwo.designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Program.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildOne.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildOne.resx">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildThree.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildThree.resx">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_ChildTwo.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_ChildTwo.resx">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\Backup\MDIVerticalSort\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\MDIVerticalSort.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MDIVerticalSort" Source="MDIVerticalSort\MDIVerticalSort.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MDIVerticalSort.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MDIVerticalSort.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MDIVerticalSort" Source="MDIVerticalSort\MDIVerticalSort.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\bin\Debug\MultiCurve.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\bin\Debug\MultiCurve.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\bin\Debug\MultiCurve.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\MultiCurve.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\MultiCurve.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\MultiCurve.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\561\MultiCurve\MultiCurve\obj\Debug\MultiCurve.pdb

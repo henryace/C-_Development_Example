@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InsertToSQL">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\InsertToSQL.sln">
+</Property><Property Name="Date" Value="2012年10月17日">
+</Property><Property Name="Time" Value="上午 10:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InsertToSQL.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL.sln">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\InsertToSQL.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\InsertToSQL.csproj">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\DataTier.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\DataTier.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\InstanceClass.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\InstanceClass.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Program.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Time.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Time.cs">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\446\InsertToSQL\Backup\InsertToSQL\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\InsertToSQL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="InsertToSQL" Source="InsertToSQL\InsertToSQL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InsertToSQL.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="InsertToSQL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InsertToSQL" Source="InsertToSQL\InsertToSQL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

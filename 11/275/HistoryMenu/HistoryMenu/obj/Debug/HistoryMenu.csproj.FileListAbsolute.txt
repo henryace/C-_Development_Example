@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\bin\Debug\HistoryMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\bin\Debug\HistoryMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\bin\Debug\HistoryMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\HistoryMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\HistoryMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\HistoryMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\275\HistoryMenu\HistoryMenu\obj\Debug\HistoryMenu.pdb

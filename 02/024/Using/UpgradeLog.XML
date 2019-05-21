@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Using">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Using.sln">
+</Property><Property Name="Date" Value="2012年5月8日">
+</Property><Property Name="Time" Value="上午 06:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Using.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using.sln">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Using.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Using.csproj">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Program.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\024\Using\Backup\Using\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Using.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Using" Source="Using\Using.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Using.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Using.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Using" Source="Using\Using.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

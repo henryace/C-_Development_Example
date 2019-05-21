@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\bin\Debug\AddScroll.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\bin\Debug\AddScroll.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\bin\Debug\AddScroll.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\AddScroll.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\AddScroll.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\AddScroll.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\237\AddScroll\AddScroll\obj\Debug\AddScroll.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SetFont">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\SetFont.sln">
+</Property><Property Name="Date" Value="2012年4月25日">
+</Property><Property Name="Time" Value="上午 11:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SetFont.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont.sln">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\SetFont.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\SetFont.csproj">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Form1.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Program.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\007\SetFont\Backup\SetFont\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\SetFont.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="SetFont" Source="SetFont\SetFont.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SetFont.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="SetFont.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetFont" Source="SetFont\SetFont.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

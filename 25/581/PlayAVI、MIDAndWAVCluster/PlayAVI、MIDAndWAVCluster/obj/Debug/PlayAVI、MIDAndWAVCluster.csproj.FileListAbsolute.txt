@@ -1,0 +1,4 @@
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_01\PlayAVI、MIDAndWAVCluster\PlayAVI、MIDAndWAVCluster\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_01\PlayAVI、MIDAndWAVCluster\PlayAVI、MIDAndWAVCluster\obj\Debug\PlayAVIMIDAndWAVCluster.Form1.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_01\PlayAVI、MIDAndWAVCluster\PlayAVI、MIDAndWAVCluster\obj\Debug\PlayAVI_MIDAndWAVCluster.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_01\PlayAVI、MIDAndWAVCluster\PlayAVI、MIDAndWAVCluster\obj\Debug\PlayAVI、MIDAndWAVCluster.csproj.GenerateResource.Cache

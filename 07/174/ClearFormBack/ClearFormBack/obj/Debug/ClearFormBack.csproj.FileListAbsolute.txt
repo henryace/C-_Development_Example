@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\bin\Debug\ClearFormBack.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\bin\Debug\ClearFormBack.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\bin\Debug\ClearFormBack.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\ClearFormBack.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\ClearFormBack.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\ClearFormBack.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\174\ClearFormBack\ClearFormBack\obj\Debug\ClearFormBack.pdb

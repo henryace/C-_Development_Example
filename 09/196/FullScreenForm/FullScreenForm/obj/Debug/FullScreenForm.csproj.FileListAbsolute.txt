@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\bin\Debug\FullScreenForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\bin\Debug\FullScreenForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\bin\Debug\FullScreenForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\FullScreenForm.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\FullScreenForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\FullScreenForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\196\FullScreenForm\FullScreenForm\obj\Debug\FullScreenForm.pdb

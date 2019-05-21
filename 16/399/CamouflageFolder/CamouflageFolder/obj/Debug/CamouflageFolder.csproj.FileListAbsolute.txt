@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\bin\Debug\CamouflageFolder.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\bin\Debug\CamouflageFolder.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\bin\Debug\CamouflageFolder.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\399\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.pdb

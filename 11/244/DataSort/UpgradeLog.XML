@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataSort">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\DataSort.sln">
+</Property><Property Name="Date" Value="2012年6月29日">
+</Property><Property Name="Time" Value="上午 11:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataSort.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort.sln">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\DataSort.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\DataSort.csproj">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Program.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\244\DataSort\Backup\DataSort\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DataSort" Source="DataSort\DataSort.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\DataSort.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DataSort" Source="DataSort\DataSort.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataSort.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DataSort.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataSort" Source="DataSort\DataSort.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

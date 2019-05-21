@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\bin\Debug\AddDataToFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\bin\Debug\AddDataToFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\bin\Debug\AddDataToFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\AddDataToFile.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\AddDataToFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\AddDataToFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\17\407\AddDataToFile\AddDataToFile\obj\Debug\AddDataToFile.pdb

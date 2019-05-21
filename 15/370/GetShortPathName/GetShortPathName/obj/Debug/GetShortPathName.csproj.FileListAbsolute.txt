@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\bin\Debug\GetShortPathName.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\bin\Debug\GetShortPathName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\bin\Debug\GetShortPathName.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GetShortPathName.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GetShortPathName.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GetShortPathName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\370\GetShortPathName\GetShortPathName\obj\Debug\GetShortPathName.pdb

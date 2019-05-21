@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BeautifulCalendar">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar.sln">
+</Property><Property Name="Date" Value="2012年10月9日">
+</Property><Property Name="Time" Value="上午 00:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BeautifulCalendar.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar.sln">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\BeautifulCalendar.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\BeautifulCalendar.csproj">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Calendar.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Calendar.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Calendar.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Calendar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Program.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Image\backdrop.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Image\backdrop.png">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Image\backdrop1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Image\backdrop1.png">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Calendar.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Calendar.resx">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\Backup\BeautifulCalendar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\BeautifulCalendar.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="BeautifulCalendar" Source="BeautifulCalendar\BeautifulCalendar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BeautifulCalendar.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="BeautifulCalendar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BeautifulCalendar" Source="BeautifulCalendar\BeautifulCalendar.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

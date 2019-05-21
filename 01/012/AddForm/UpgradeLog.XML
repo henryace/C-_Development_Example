@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AddForm">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\AddForm.sln">
+</Property><Property Name="Date" Value="2012年5月2日">
+</Property><Property Name="Time" Value="下午 16:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AddForm.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm.sln">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\AddForm.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\AddForm.csproj">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\frmLogin.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\frmLogin.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\frmLogin.designer.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Program.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\frmLogin.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\01\012\AddForm\Backup\AddForm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\AddForm.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="AddForm" Source="AddForm\AddForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AddForm.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AddForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AddForm" Source="AddForm\AddForm.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

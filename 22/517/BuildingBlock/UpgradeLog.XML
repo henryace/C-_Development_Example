@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BuildingBlock">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\BuildingBlock.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\BuildingBlock.suo">
+</Property><Property Name="Date" Value="2012年10月24日">
+</Property><Property Name="Time" Value="上午 00:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BuildingBlock.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BuildingBlock.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock.suo">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\BuildingBlock.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\BuildingBlock.csproj">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Program.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\517\BuildingBlock\Backup\BuildingBlock\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\BuildingBlock.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="BuildingBlock" Source="BuildingBlock\BuildingBlock.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BuildingBlock.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="BuildingBlock.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BuildingBlock" Source="BuildingBlock\BuildingBlock.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

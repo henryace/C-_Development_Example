@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\bin\x86\Debug\SelectInsert.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\bin\x86\Debug\SelectInsert.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\bin\x86\Debug\SelectInsert.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\SelectInsert.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\SelectInsert.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\SelectInsert.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\248\SelectInsert\SelectInsert\obj\x86\Debug\SelectInsert.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\059\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.pdb

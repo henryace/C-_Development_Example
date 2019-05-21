@@ -1,0 +1,6 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\bin\Debug\YHSJ.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\bin\Debug\YHSJ.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\bin\Debug\YHSJ.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\obj\Debug\YHSJ.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\150\YHSJ\YHSJ\obj\Debug\YHSJ.pdb

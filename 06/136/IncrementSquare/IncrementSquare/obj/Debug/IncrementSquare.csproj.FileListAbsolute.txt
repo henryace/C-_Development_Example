@@ -1,0 +1,6 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\bin\Debug\IncrementSquare.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\bin\Debug\IncrementSquare.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\bin\Debug\IncrementSquare.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\obj\Debug\IncrementSquare.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare\obj\Debug\IncrementSquare.pdb

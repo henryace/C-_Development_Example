@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\bin\Debug\UseDPie.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\bin\Debug\UseDPie.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\bin\Debug\UseDPie.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\UseDPie.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\UseDPie.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\UseDPie.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\484\UseDPie\UseDPie\obj\Debug\UseDPie.pdb

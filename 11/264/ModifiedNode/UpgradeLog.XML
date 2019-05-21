@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ModifiedNode">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode.sln">
+</Property><Property Name="Date" Value="2012年7月2日">
+</Property><Property Name="Time" Value="上午 11:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ModifiedNode.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode.sln">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\ModifiedNode.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\ModifiedNode.csproj">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Program.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\Backup\ModifiedNode\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\ModifiedNode.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ModifiedNode" Source="ModifiedNode\ModifiedNode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ModifiedNode.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ModifiedNode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ModifiedNode" Source="ModifiedNode\ModifiedNode.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

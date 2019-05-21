@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ModiFyTime">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\ModiFyTime.sln">
+</Property><Property Name="Date" Value="2012年10月9日">
+</Property><Property Name="Time" Value="下午 17:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ModiFyTime.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime.sln">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\ModiFyTime.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\ModiFyTime.csproj">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Program.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\358\ModiFyTime\Backup\ModiFyTime\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\ModiFyTime.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ModiFyTime" Source="ModiFyTime\ModiFyTime.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ModiFyTime.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ModiFyTime.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ModiFyTime" Source="ModiFyTime\ModiFyTime.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

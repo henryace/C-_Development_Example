@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\bin\Debug\GetDateDiff.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\bin\Debug\GetDateDiff.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\bin\Debug\GetDateDiff.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GetDateDiff.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GetDateDiff.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GetDateDiff.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\062\GetDateDiff\GetDateDiff\obj\Debug\GetDateDiff.pdb

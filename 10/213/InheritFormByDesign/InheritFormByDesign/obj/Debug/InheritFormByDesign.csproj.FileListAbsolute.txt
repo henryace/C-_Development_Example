@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\bin\Debug\InheritFormByDesign.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\bin\Debug\InheritFormByDesign.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\bin\Debug\InheritFormByDesign.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\InheritFormByDesign.Frm_Inherit.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\InheritFormByDesign.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\InheritFormByDesign.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\InheritFormByDesign.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\213\InheritFormByDesign\InheritFormByDesign\obj\Debug\InheritFormByDesign.pdb

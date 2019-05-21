@@ -1,0 +1,32 @@
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ResolveAssemblyReference.cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.Properties.Resources.resources
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.csproj.GenerateResource.Cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.doc
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\028\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ResolveAssemblyReference.cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.Properties.Resources.resources
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.csproj.GenerateResource.Cache
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.pdb
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.doc
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.dll
+D:\源码\范例大全\光盘代码\MR\Instance\18\026\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\obj\Debug\ApplicationInWord.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.dll.manifest
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.vsto
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\ApplicationInWord.docx
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\450\ApplicationInWord\ApplicationInWord\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml

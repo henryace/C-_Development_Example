@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\bin\Debug\AppInterface.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\bin\Debug\AppInterface.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\bin\Debug\AppInterface.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\AppInterface.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\AppInterface.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\AppInterface.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\117\AppInterface\AppInterface\obj\Debug\AppInterface.pdb

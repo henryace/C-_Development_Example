@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MultiWordToExcel">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel.suo">
+</Property><Property Name="Date" Value="2012年10月18日">
+</Property><Property Name="Time" Value="下午 13:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MultiWordToExcel.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MultiWordToExcel.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel.suo">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\MultiWordToExcel.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\MultiWordToExcel.csproj">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Program.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\Backup\MultiWordToExcel\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\MultiWordToExcel.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MultiWordToExcel" Source="MultiWordToExcel\MultiWordToExcel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MultiWordToExcel.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MultiWordToExcel.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MultiWordToExcel" Source="MultiWordToExcel\MultiWordToExcel.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

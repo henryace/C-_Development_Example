@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MovieSpecific">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\MovieSpecific.sln">
+</Property><Property Name="Date" Value="2012年10月23日">
+</Property><Property Name="Time" Value="上午 10:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MovieSpecific.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific.sln">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\MovieSpecific.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\MovieSpecific.csproj">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Form1.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Program.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Resources\2.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Resources\2.jpg">
+</Event><Event ErrorLevel="2" Project="MovieSpecific" Source="MovieSpecific\Resources\C#编程词典.bmp" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Resources\C#编程词典.bmp">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\575\MovieSpecific\Backup\MovieSpecific\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\MovieSpecific.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MovieSpecific" Source="MovieSpecific\MovieSpecific.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MovieSpecific.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MovieSpecific.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MovieSpecific" Source="MovieSpecific\MovieSpecific.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

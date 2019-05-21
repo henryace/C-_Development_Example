@@ -1,0 +1,26 @@
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.SnatchDisplayDeviceNameAndID.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceNameAndID.csproj.GenerateResource.Cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_18\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.pdb
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.exe
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.pdb
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.exe
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.pdb
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.Properties.Resources.resources
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.Frm_Main.resources
+E:\源码\C#范例大全\24\013\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceNameAndID.csproj.GenerateResource.Cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\bin\Debug\SnatchDisplayDeviceName.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\593\SnatchDisplayDeviceName\SnatchDisplayDeviceName\obj\Debug\SnatchDisplayDeviceName.pdb

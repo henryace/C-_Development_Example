@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\bin\Debug\ExchangeItem.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\bin\Debug\ExchangeItem.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\bin\Debug\ExchangeItem.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\ExchangeItem.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\ExchangeItem.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\ExchangeItem.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\247\ExchangeItem\ExchangeItem\obj\Debug\ExchangeItem.pdb

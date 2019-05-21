@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\bin\Debug\ButtonShortCut.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\bin\Debug\ButtonShortCut.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\bin\Debug\ButtonShortCut.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\ButtonShortCut.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\ButtonShortCut.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\ButtonShortCut.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\217\ButtonShortCut\ButtonShortCut\obj\Debug\ButtonShortCut.pdb

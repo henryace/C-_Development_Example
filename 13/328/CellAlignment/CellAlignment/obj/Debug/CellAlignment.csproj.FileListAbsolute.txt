@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\bin\Debug\CellAlignment.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\bin\Debug\CellAlignment.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\bin\Debug\CellAlignment.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\CellAlignment.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\CellAlignment.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\CellAlignment.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\328\CellAlignment\CellAlignment\obj\Debug\CellAlignment.pdb

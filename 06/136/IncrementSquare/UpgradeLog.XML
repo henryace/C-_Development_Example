@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IncrementSquare">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\IncrementSquare.sln">
+</Property><Property Name="Date" Value="2012年5月17日">
+</Property><Property Name="Time" Value="下午 13:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IncrementSquare.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\Backup\IncrementSquare.sln">
+</Event><Event ErrorLevel="0" Project="IncrementSquare" Source="IncrementSquare\IncrementSquare.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\Backup\IncrementSquare\IncrementSquare.csproj">
+</Event><Event ErrorLevel="0" Project="IncrementSquare" Source="IncrementSquare\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\Backup\IncrementSquare\Program.cs">
+</Event><Event ErrorLevel="0" Project="IncrementSquare" Source="IncrementSquare\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\136\IncrementSquare\Backup\IncrementSquare\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IncrementSquare" Source="IncrementSquare\IncrementSquare.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="IncrementSquare" Source="IncrementSquare\IncrementSquare.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IncrementSquare.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="IncrementSquare.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IncrementSquare" Source="IncrementSquare\IncrementSquare.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

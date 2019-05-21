@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\bin\Debug\ProductElectronQuote.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\bin\Debug\ProductElectronQuote.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\bin\Debug\ProductElectronQuote.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\ProductElectronQuote.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\ProductElectronQuote.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\ProductElectronQuote.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\579\ProductElectronQuote\ProductElectronQuote\obj\Debug\ProductElectronQuote.pdb

@@ -1,0 +1,102 @@
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\Playflv.exe
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\Playflv.pdb
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.Form1.resources
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.exe
+E:\工作文稿\范例宝典精华版\Playflv\Playflv\obj\Debug\Playflv.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Playflv.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Playflv.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Playflv.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Playflv.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.Scripting.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLV播放器\Playflv\obj\Debug\Playflv.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Interop.Scripting.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\AxInterop.WMPLib.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.exe
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.pdb
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\Playflv.exe
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\Playflv.pdb
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\Interop.Scripting.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\bin\Debug\AxInterop.WMPLib.dll
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.Frm_Main.resources
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+E:\源码\C#范例大全\23\011\Playflv\Playflv\obj\Debug\Playflv.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\Playflv.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\Playflv.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\Interop.Scripting.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\Interop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\bin\Debug\AxInterop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Interop.Scripting.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Interop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\AxInterop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\578\Playflv\Playflv\obj\Debug\Playflv.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Playflv.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Playflv.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Playflv.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Interop.Scripting.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Interop.Scripting.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Playflv.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Playflv.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Playflv.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Playflv.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\578\Playflv\Playflv\obj\Debug\Playflv.pdb

@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\bin\Debug\BeautifulCalendar.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\bin\Debug\BeautifulCalendar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\bin\Debug\BeautifulCalendar.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\BeautifulCalendar.Calendar.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\BeautifulCalendar.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\BeautifulCalendar.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\BeautifulCalendar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\353\BeautifulCalendar\BeautifulCalendar\obj\Debug\BeautifulCalendar.pdb

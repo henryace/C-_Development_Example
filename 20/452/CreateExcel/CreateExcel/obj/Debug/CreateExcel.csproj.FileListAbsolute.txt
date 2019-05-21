@@ -1,0 +1,13 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\bin\Debug\CreateExcel.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\CreateExcel.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\CreateExcel.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\CreateExcel.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\CreateExcel.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\452\CreateExcel\CreateExcel\obj\Debug\CreateExcel.pdb

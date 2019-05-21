@@ -1,0 +1,6 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\bin\Debug\SelectMonkeyKing.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\bin\Debug\SelectMonkeyKing.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\bin\Debug\SelectMonkeyKing.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\obj\Debug\SelectMonkeyKing.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\154\SelectMonkeyKing\SelectMonkeyKing\obj\Debug\SelectMonkeyKing.pdb

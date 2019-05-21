@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\bin\Debug\AnalyseGoodsTrend.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\bin\Debug\AnalyseGoodsTrend.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\bin\Debug\AnalyseGoodsTrend.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\AnalyseGoodsTrend.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\AnalyseGoodsTrend.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\AnalyseGoodsTrend.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\555\AnalyseGoodsTrend\AnalyseGoodsTrend\obj\Debug\AnalyseGoodsTrend.pdb

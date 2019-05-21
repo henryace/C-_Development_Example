@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WordMerge">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\WordMerge.sln">
+</Property><Property Name="Date" Value="2012年10月15日">
+</Property><Property Name="Time" Value="上午 10:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WordMerge.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge.sln">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\WordMerge.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\WordMerge.csproj">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Program.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\434\WordMerge\Backup\WordMerge\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\WordMerge.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="WordMerge" Source="WordMerge\WordMerge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WordMerge.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WordMerge.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordMerge" Source="WordMerge\WordMerge.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

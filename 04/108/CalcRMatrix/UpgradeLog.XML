@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CalcRMatrix">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\CalcRMatrix.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 13:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CalcRMatrix.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix.sln">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\CalcRMatrix.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\CalcRMatrix.csproj">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Form1.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Program.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\108\CalcRMatrix\Backup\CalcRMatrix\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\CalcRMatrix.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="CalcRMatrix" Source="CalcRMatrix\CalcRMatrix.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CalcRMatrix.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="CalcRMatrix.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CalcRMatrix" Source="CalcRMatrix\CalcRMatrix.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

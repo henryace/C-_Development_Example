@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\bin\Debug\SiteVisterAnalyse.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\bin\Debug\SiteVisterAnalyse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\bin\Debug\SiteVisterAnalyse.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\SiteVisterAnalyse.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\SiteVisterAnalyse.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\SiteVisterAnalyse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\562\SiteVisterAnalyse\SiteVisterAnalyse\obj\Debug\SiteVisterAnalyse.pdb

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BranchMeans">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\BranchMeans.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 23:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BranchMeans.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans.sln">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\BranchMeans.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\BranchMeans.csproj">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Account.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Account.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Form1.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Program.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\0.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\0.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\0_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\0_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\1_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\1_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\2.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\2.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\2_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\2_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\3.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\3.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\3_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\3_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\4.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\4.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\4_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\4_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\5.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\5.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\5_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\5_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\6.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\6.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\6_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\6_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\7.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\7.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\7_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\7_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\8.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\8.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\8_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\8_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\9.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\9.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\9_1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\9_1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Add1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Add1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Add.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Add.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Amound1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Amound1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Amound.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Amound.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\back1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\back1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\back.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\back.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Bear1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Bear1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Bear.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Bear.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\bg.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\bg.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\c1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\c1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\c.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\c.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\ce1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\ce1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\ce.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\ce.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Decr1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Decr1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Decr.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Decr.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Deno1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Deno1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Deno.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Deno.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Dot1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Dot1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Dot.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Dot.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Humd1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Humd1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Hund.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Hund.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Remove1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Remove1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Remove.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Remove.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Ride1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Ride1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Ride.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Ride.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\sqrt1.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\sqrt1.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\sqrt.png" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\sqrt.png">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Image\Close.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Image\Close.jpg">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\124\BranchMeans\Backup\BranchMeans\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\BranchMeans.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="BranchMeans" Source="BranchMeans\BranchMeans.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BranchMeans.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="BranchMeans.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BranchMeans" Source="BranchMeans\BranchMeans.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,62 @@
+E:\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.Frm_Main.resources
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+E:\源码\C#范例大全\24\004\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\MP3Player.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\584\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources

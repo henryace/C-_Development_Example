@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\bin\Debug\ShortCutMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\bin\Debug\ShortCutMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\bin\Debug\ShortCutMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\ShortCutMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\ShortCutMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\ShortCutMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\321\ShortCutMenu\ShortCutMenu\obj\Debug\ShortCutMenu.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<member>
+  <person>
+    <name>老張</name>
+    <sex>男</sex>
+    <age>35</age>
+    <message>玉經磨琢多成器</message>
+  </person>
+  <person>
+    <name>會東</name>
+    <sex>男</sex>
+    <age>32</age>
+    <message>劍拔沉埋更倚天</message>
+  </person>
+</member>

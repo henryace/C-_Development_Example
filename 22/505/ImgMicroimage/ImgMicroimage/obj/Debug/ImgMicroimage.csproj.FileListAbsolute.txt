@@ -1,0 +1,65 @@
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Form1.resources
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Frm_Main.resources
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\源码\C#范例大全\21\012\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\505\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb

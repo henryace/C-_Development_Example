@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PicturesInComboBox">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\PicturesInComboBox.sln">
+</Property><Property Name="Date" Value="2012年6月28日">
+</Property><Property Name="Time" Value="上午 11:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PicturesInComboBox.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox.sln">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\PicturesInComboBox.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\PicturesInComboBox.csproj">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Program.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Resources\a.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Resources\a.bmp">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Resources\b.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Resources\b.bmp">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Resources\c.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Resources\c.bmp">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\Resources\d.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\230\PicturesInComboBox\Backup\PicturesInComboBox\Resources\d.bmp">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\PicturesInComboBox.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="PicturesInComboBox" Source="PicturesInComboBox\PicturesInComboBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PicturesInComboBox.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="PicturesInComboBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PicturesInComboBox" Source="PicturesInComboBox\PicturesInComboBox.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\bin\Debug\GetWindowsText.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\bin\Debug\GetWindowsText.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\bin\Debug\GetWindowsText.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GetWindowsText.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GetWindowsText.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GetWindowsText.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\378\GetWindowsText\GetWindowsText\obj\Debug\GetWindowsText.pdb

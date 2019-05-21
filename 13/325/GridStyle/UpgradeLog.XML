@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GridStyle">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\GridStyle.sln">
+</Property><Property Name="Date" Value="2012年7月30日">
+</Property><Property Name="Time" Value="下午 21:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GridStyle.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle.sln">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\GridStyle.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\GridStyle.csproj">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Program.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Student.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Student.cs">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\325\GridStyle\Backup\GridStyle\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\GridStyle.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="GridStyle" Source="GridStyle\GridStyle.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GridStyle.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="GridStyle.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GridStyle" Source="GridStyle\GridStyle.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

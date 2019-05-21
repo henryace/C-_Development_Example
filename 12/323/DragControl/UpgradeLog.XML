@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DragControl">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\DragControl.sln">
+</Property><Property Name="Date" Value="2012年7月5日">
+</Property><Property Name="Time" Value="下午 15:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DragControl.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl.sln">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\DragControl.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\DragControl.csproj">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Program.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="DragControl" Source="DragControl\bin\Debug\a.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\bin\Debug\a.jpg">
+</Event><Event ErrorLevel="2" Project="DragControl" Source="DragControl\bin\Debug\b.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\bin\Debug\b.jpg">
+</Event><Event ErrorLevel="2" Project="DragControl" Source="DragControl\bin\Debug\c.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\bin\Debug\c.jpg">
+</Event><Event ErrorLevel="2" Project="DragControl" Source="DragControl\bin\Debug\d.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\bin\Debug\d.jpg">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\323\DragControl\Backup\DragControl\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\DragControl.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DragControl" Source="DragControl\DragControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DragControl.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DragControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DragControl" Source="DragControl\DragControl.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

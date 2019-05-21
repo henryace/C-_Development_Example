@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\ShowBusStation.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\ShowBusStation.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\bin\Debug\ShowBusStation.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\bin\Debug\ShowBusStation.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\bin\Debug\ShowBusStation.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\ShowBusStation.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation\obj\Debug\ShowBusStation.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\bin\Debug\UseDEllipse.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\bin\Debug\UseDEllipse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\bin\Debug\UseDEllipse.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\UseDEllipse.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\UseDEllipse.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\UseDEllipse.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\482\UseDEllipse\UseDEllipse\obj\Debug\UseDEllipse.pdb

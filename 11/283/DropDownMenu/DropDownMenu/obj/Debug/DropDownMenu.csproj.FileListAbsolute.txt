@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\bin\Debug\DropDownMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\bin\Debug\DropDownMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\bin\Debug\DropDownMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\DropDownMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\DropDownMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\DropDownMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\283\DropDownMenu\DropDownMenu\obj\Debug\DropDownMenu.pdb

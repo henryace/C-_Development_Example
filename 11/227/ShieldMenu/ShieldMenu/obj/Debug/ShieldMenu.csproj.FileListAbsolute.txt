@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\bin\Debug\ShieldMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\bin\Debug\ShieldMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\bin\Debug\ShieldMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\ShieldMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\ShieldMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\ShieldMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\227\ShieldMenu\ShieldMenu\obj\Debug\ShieldMenu.pdb

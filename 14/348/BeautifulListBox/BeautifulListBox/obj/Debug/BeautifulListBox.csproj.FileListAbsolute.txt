@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\bin\Debug\BeautifulListBox.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\bin\Debug\BeautifulListBox.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\bin\Debug\BeautifulListBox.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\BeautifulListBox.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\BeautifulListBox.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\BeautifulListBox.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\14\348\BeautifulListBox\BeautifulListBox\obj\Debug\BeautifulListBox.pdb

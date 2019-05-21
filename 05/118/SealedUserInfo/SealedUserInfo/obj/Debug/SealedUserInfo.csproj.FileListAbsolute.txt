@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\bin\Debug\SealedUserInfo.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\bin\Debug\SealedUserInfo.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\bin\Debug\SealedUserInfo.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\SealedUserInfo.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\SealedUserInfo.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\SealedUserInfo.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\118\SealedUserInfo\SealedUserInfo\obj\Debug\SealedUserInfo.pdb

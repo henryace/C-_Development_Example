@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\bin\Debug\TimeTask.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\bin\Debug\TimeTask.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\bin\Debug\TimeTask.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\TimeTask.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\TimeTask.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\TimeTask.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\308\TimeTask\TimeTask\obj\Debug\TimeTask.pdb

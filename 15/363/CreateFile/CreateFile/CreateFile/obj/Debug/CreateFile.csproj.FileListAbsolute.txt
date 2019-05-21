@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\bin\Debug\CreateFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\bin\Debug\CreateFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\bin\Debug\CreateFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\CreateFile.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\CreateFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\CreateFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\363\CreateFile\CreateFile\CreateFile\obj\Debug\CreateFile.pdb

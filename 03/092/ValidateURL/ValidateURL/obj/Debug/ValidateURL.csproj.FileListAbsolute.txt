@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\bin\Debug\ValidateURL.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\bin\Debug\ValidateURL.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\bin\Debug\ValidateURL.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\ValidateURL.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\ValidateURL.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\ValidateURL.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\03\092\ValidateURL\ValidateURL\obj\Debug\ValidateURL.pdb

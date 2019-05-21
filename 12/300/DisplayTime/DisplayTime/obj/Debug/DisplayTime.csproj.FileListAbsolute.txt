@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\bin\Debug\DisplayTime.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\bin\Debug\DisplayTime.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\bin\Debug\DisplayTime.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\DisplayTime.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\DisplayTime.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\DisplayTime.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\300\DisplayTime\DisplayTime\obj\Debug\DisplayTime.pdb

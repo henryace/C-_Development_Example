@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\bin\Debug\TxtValidate.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\bin\Debug\TxtValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\bin\Debug\TxtValidate.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\TxtValidate.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\TxtValidate.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\TxtValidate.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\307\TxtValidate\TxtValidate\obj\Debug\TxtValidate.pdb

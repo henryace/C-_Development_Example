@@ -1,0 +1,26 @@
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Frm_Main.resources
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+E:\源码\C#范例大全\21\052\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\545\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb

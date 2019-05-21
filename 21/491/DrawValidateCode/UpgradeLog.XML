@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DrawValidateCode">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\DrawValidateCode.sln">
+</Property><Property Name="Date" Value="2012年10月22日">
+</Property><Property Name="Time" Value="下午 16:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DrawValidateCode.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode.sln">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\DrawValidateCode.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\DrawValidateCode.csproj">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Form1.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Program.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\491\DrawValidateCode\Backup\DrawValidateCode\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\DrawValidateCode.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DrawValidateCode" Source="DrawValidateCode\DrawValidateCode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DrawValidateCode.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DrawValidateCode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawValidateCode" Source="DrawValidateCode\DrawValidateCode.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

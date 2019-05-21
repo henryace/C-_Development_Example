@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\bin\Debug\UnWinRARFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\bin\Debug\UnWinRARFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\bin\Debug\UnWinRARFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\UnWinRARFile.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\UnWinRARFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\UnWinRARFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\423\UnWinRARFile\UnWinRARFile\obj\Debug\UnWinRARFile.pdb

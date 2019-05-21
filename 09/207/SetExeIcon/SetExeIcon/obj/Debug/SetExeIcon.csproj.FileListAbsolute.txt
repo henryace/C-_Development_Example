@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\SetExeIcon.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\SetExeIcon.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\bin\Debug\SetExeIcon.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\bin\Debug\SetExeIcon.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\bin\Debug\SetExeIcon.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\SetExeIcon.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\207\SetExeIcon\SetExeIcon\obj\Debug\SetExeIcon.pdb

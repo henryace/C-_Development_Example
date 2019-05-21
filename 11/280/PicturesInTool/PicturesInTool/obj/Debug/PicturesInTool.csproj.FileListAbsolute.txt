@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\PicturesInTool.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\PicturesInTool.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\bin\Debug\PicturesInTool.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\bin\Debug\PicturesInTool.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\bin\Debug\PicturesInTool.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\PicturesInTool.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\280\PicturesInTool\PicturesInTool\obj\Debug\PicturesInTool.pdb

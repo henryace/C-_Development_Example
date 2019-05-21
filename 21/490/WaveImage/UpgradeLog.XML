@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WaveImage">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\WaveImage.sln">
+</Property><Property Name="Date" Value="2012年10月22日">
+</Property><Property Name="Time" Value="下午 16:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WaveImage.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage.sln">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\WaveImage.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\WaveImage.csproj">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Program.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\490\WaveImage\Backup\WaveImage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\WaveImage.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="WaveImage" Source="WaveImage\WaveImage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WaveImage.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WaveImage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WaveImage" Source="WaveImage\WaveImage.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\bin\Debug\BindToComboBox.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\bin\Debug\BindToComboBox.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\bin\Debug\BindToComboBox.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\BindToComboBox.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\BindToComboBox.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\BindToComboBox.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\229\BindToComboBox\BindToComboBox\obj\Debug\BindToComboBox.pdb

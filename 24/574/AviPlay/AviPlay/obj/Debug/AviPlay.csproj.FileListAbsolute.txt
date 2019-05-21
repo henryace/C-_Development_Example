@@ -1,0 +1,38 @@
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\bin\Debug\AviPlay.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\bin\Debug\AviPlay.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\bin\Debug\AxInterop.MSComCtl2.dll
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\bin\Debug\Interop.MSComCtl2.dll
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\AviPlay.Form1.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\AviPlay.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\AviPlay.csproj.GenerateResource.Cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\AviPlay.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_07\AviPlay\AviPlay\obj\Debug\AviPlay.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_12\AviPlay\AviPlay\obj\Debug\AviPlay.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_12\AviPlay\AviPlay\obj\Debug\AviPlay.pdb
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\AviPlay.exe
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\AviPlay.pdb
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\bin\Debug\AviPlay.exe
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\bin\Debug\AviPlay.pdb
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\AviPlay.Frm_Main.resources
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\AviPlay.Properties.Resources.resources
+E:\源码\C#范例大全\23\007\AviPlay\AviPlay\obj\Debug\AviPlay.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\bin\Debug\AviPlay.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\bin\Debug\AviPlay.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\AviPlay.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\bin\Debug\AviPlay.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\bin\Debug\AviPlay.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\bin\Debug\AviPlay.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\24\574\AviPlay\AviPlay\obj\Debug\GenerateResource.write.1.tlog

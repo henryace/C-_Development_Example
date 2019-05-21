@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\bin\Debug\ModifiedNode.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\bin\Debug\ModifiedNode.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\bin\Debug\ModifiedNode.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\ModifiedNode.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\ModifiedNode.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\ModifiedNode.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\264\ModifiedNode\ModifiedNode\obj\Debug\ModifiedNode.pdb

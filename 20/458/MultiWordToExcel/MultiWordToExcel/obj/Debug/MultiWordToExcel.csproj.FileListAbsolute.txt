@@ -1,0 +1,28 @@
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Frm_Main.resources
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Properties.Resources.resources
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.exe
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.pdb
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.exe
+E:\源码\C#范例大全\19\008\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\bin\Debug\MultiWordToExcel.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\458\MultiWordToExcel\MultiWordToExcel\obj\Debug\MultiWordToExcel.pdb

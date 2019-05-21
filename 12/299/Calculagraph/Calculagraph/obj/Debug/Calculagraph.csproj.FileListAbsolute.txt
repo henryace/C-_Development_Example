@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\bin\Debug\Calculagraph.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\bin\Debug\Calculagraph.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\bin\Debug\Calculagraph.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\Calculagraph.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\Calculagraph.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\Calculagraph.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\299\Calculagraph\Calculagraph\obj\Debug\Calculagraph.pdb

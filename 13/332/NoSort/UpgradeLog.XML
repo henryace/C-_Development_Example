@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NoSort">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\NoSort.sln">
+</Property><Property Name="Date" Value="2012年10月7日">
+</Property><Property Name="Time" Value="下午 23:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NoSort.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort.sln">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\NoSort.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\NoSort.csproj">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Fruit.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Fruit.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Program.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\332\NoSort\Backup\NoSort\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\NoSort.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="NoSort" Source="NoSort\NoSort.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NoSort.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="NoSort.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NoSort" Source="NoSort\NoSort.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

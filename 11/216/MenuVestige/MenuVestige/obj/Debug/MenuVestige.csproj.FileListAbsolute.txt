@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\MenuVestige.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\bin\Debug\MenuVestige.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\bin\Debug\MenuVestige.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\bin\Debug\MenuVestige.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\MenuVestige.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\MenuVestige.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\216\MenuVestige\MenuVestige\obj\Debug\MenuVestige.pdb

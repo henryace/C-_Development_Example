@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsynchronismLoadPlayVoice">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.suo">
+</Property><Property Name="Date" Value="2012年10月23日">
+</Property><Property Name="Time" Value="下午 12:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AsynchronismLoadPlayVoice.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AsynchronismLoadPlayVoice.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice.suo">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.csproj">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Program.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\588\AsynchronismLoadPlayVoice\Backup\AsynchronismLoadPlayVoice\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsynchronismLoadPlayVoice.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AsynchronismLoadPlayVoice.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsynchronismLoadPlayVoice" Source="AsynchronismLoadPlayVoice\AsynchronismLoadPlayVoice.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

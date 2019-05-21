@@ -1,0 +1,34 @@
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.exe
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.pdb
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\ResolveAssemblyReference.cache
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Properties.Resources.resources
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.SnatchDisplayDeviceListMode.resources
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.csproj.GenerateResource.Cache
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.exe
+F:\范例宝典（升级版范例）\Ex05_197\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.SnatchDisplayDeviceListMode.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_22\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.exe
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.pdb
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.exe
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.pdb
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Properties.Resources.resources
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Frm_Main.resources
+E:\源码\C#范例大全\24\015\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.csproj.GenerateResource.Cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\bin\Debug\SnatchDisplayDeviceListMode.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\595\SnatchDisplayDeviceListMode\SnatchDisplayDeviceListMode\obj\Debug\SnatchDisplayDeviceListMode.pdb

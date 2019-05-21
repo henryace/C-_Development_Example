@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Equal">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Equal.sln">
+</Property><Property Name="Date" Value="2012年5月8日">
+</Property><Property Name="Time" Value="上午 06:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Equal.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal.sln">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Equal.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Equal.csproj">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Program.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\02\025\Equal\Backup\Equal\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Equal.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Equal" Source="Equal\Equal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Equal.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Equal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Equal" Source="Equal\Equal.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

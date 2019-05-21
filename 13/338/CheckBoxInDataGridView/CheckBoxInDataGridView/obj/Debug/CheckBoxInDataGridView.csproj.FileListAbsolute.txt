@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\bin\Debug\CheckBoxInDataGridView.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\bin\Debug\CheckBoxInDataGridView.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\bin\Debug\CheckBoxInDataGridView.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\CheckBoxInDataGridView.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\CheckBoxInDataGridView.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\CheckBoxInDataGridView.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\338\CheckBoxInDataGridView\CheckBoxInDataGridView\obj\Debug\CheckBoxInDataGridView.pdb

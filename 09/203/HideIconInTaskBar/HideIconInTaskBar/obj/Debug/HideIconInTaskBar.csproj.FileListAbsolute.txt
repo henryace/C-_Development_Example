@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\bin\Debug\HideIconInTaskBar.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\bin\Debug\HideIconInTaskBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\bin\Debug\HideIconInTaskBar.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\HideIconInTaskBar.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\HideIconInTaskBar.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\HideIconInTaskBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\09\203\HideIconInTaskBar\HideIconInTaskBar\obj\Debug\HideIconInTaskBar.pdb

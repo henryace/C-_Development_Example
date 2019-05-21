@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MagnetismForm">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\MagnetismForm.sln">
+</Property><Property Name="Date" Value="2012年5月21日">
+</Property><Property Name="Time" Value="下午 17:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MagnetismForm.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\MagnetismForm.sln">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="MagnetismForm.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\MagnetismForm.csproj">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="FrmClass.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\FrmClass.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Libretto.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Libretto.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Libretto.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Libretto.designer.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_ListBox.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_ListBox.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_ListBox.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_ListBox.designer.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Play.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Play.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Play.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Play.designer.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\1.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\1.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\2.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\2.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\3.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\3.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\4.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\4.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\5.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\5.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\Close.bmp" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\Close.bmp">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\01.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\01.jpg">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\03.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\03.jpg">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Resources\02.jpg" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Resources\02.jpg">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Libretto.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Libretto.resx">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_ListBox.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_ListBox.resx">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Frm_Play.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Frm_Play.resx">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\185\MagnetismForm\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="MagnetismForm.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="MagnetismForm" Source="MagnetismForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MagnetismForm.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="MagnetismForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MagnetismForm" Source="MagnetismForm.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

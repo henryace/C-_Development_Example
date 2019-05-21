@@ -1,0 +1,15 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\InsertControl.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\InsertControl.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\InsertControl.dll.manifest
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\InsertControl.vsto
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\InsertControl.docx
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\InsertControl.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\InsertControl.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\430\InsertControl_n\InsertControl\InsertControl\obj\Debug\InsertControl.pdb

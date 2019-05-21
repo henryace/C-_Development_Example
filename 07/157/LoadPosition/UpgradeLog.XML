@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoadPosition">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\LoadPosition.sln">
+</Property><Property Name="Date" Value="2012年5月17日">
+</Property><Property Name="Time" Value="下午 16:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoadPosition.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition.sln">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\LoadPosition.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\LoadPosition.csproj">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Program.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\157\LoadPosition\Backup\LoadPosition\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\LoadPosition.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="LoadPosition" Source="LoadPosition\LoadPosition.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LoadPosition.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="LoadPosition.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoadPosition" Source="LoadPosition\LoadPosition.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

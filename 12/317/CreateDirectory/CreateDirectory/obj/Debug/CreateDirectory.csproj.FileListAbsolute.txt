@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\12\317\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.pdb

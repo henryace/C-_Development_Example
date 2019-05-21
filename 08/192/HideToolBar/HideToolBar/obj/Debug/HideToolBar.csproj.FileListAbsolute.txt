@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\bin\Debug\HideToolBar.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\bin\Debug\HideToolBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\bin\Debug\HideToolBar.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\HideToolBar.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\HideToolBar.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\HideToolBar.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\192\HideToolBar\HideToolBar\obj\Debug\HideToolBar.pdb

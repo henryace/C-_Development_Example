@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ColumnByControl">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\ColumnByControl.sln">
+</Property><Property Name="Date" Value="2012年10月22日">
+</Property><Property Name="Time" Value="下午 20:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ColumnByControl.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl.sln">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\ColumnByControl.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\ColumnByControl.csproj">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Program.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\557\ColumnByControl\Backup\ColumnByControl\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\ColumnByControl.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ColumnByControl" Source="ColumnByControl\ColumnByControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ColumnByControl.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ColumnByControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ColumnByControl" Source="ColumnByControl\ColumnByControl.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

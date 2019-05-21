@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\bin\Debug\AddArrayInArray.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\bin\Debug\AddArrayInArray.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\bin\Debug\AddArrayInArray.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\AddArrayInArray.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\AddArrayInArray.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\AddArrayInArray.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\096\AddArrayInArray\AddArrayInArray\obj\Debug\AddArrayInArray.pdb

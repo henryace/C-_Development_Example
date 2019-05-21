@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\bin\Debug\FileBatchChangeName.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\bin\Debug\FileBatchChangeName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\bin\Debug\FileBatchChangeName.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.pdb

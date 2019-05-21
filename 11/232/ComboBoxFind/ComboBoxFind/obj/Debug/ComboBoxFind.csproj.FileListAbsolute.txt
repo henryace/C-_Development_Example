@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\bin\Debug\ComboBoxFind.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\bin\Debug\ComboBoxFind.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\bin\Debug\ComboBoxFind.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\ComboBoxFind.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\ComboBoxFind.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\ComboBoxFind.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\232\ComboBoxFind\ComboBoxFind\obj\Debug\ComboBoxFind.pdb

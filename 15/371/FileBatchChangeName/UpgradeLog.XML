@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileBatchChangeName">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\FileBatchChangeName.sln">
+</Property><Property Name="Date" Value="2012年10月10日">
+</Property><Property Name="Time" Value="上午 07:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileBatchChangeName.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName.sln">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\FileBatchChangeName.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\FileBatchChangeName.csproj">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Program.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\copy.gif" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\copy.gif">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\gg.gif" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\gg.gif">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\netspell.gif" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\netspell.gif">
+</Event><Event ErrorLevel="2" Project="FileBatchChangeName" Source="FileBatchChangeName\图标 (166).ico" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\图标 (166).ico">
+</Event><Event ErrorLevel="2" Project="FileBatchChangeName" Source="FileBatchChangeName\图标 (179).ico" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\图标 (179).ico">
+</Event><Event ErrorLevel="2" Project="FileBatchChangeName" Source="FileBatchChangeName\图标 (99).ico" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\图标 (99).ico">
+</Event><Event ErrorLevel="2" Project="FileBatchChangeName" Source="FileBatchChangeName\图标.ico" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\图标.ico">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\371\FileBatchChangeName\Backup\FileBatchChangeName\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\FileBatchChangeName.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="FileBatchChangeName" Source="FileBatchChangeName\FileBatchChangeName.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileBatchChangeName.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="FileBatchChangeName.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileBatchChangeName" Source="FileBatchChangeName\FileBatchChangeName.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

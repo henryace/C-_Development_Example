@@ -1,0 +1,28 @@
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\ResolveAssemblyReference.cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Form1.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Properties.Resources.resources
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.csproj.GenerateResource.Cache
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_13\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.pdb
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_25\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.exe
+F:\程序与文档（范例宝典）\范例宝典改版程序\05\Ex05_25\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.pdb
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.exe
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.pdb
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.exe
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.pdb
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Frm_Main.resources
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Properties.Resources.resources
+E:\源码\C#范例大全\24\017\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.csproj.GenerateResource.Cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\bin\Debug\BootStrapBeatitude.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\25\597\BootStrapBeatitude\BootStrapBeatitude\obj\Debug\BootStrapBeatitude.pdb

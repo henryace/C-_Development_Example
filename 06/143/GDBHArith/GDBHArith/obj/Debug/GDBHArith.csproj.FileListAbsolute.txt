@@ -1,0 +1,6 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\bin\Debug\GDBHArith.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\bin\Debug\GDBHArith.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\bin\Debug\GDBHArith.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\obj\Debug\GDBHArith.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\06\143\GDBHArith\GDBHArith\obj\Debug\GDBHArith.pdb

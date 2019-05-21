@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\bin\Debug\EncryptFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\bin\Debug\EncryptFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\bin\Debug\EncryptFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\EncryptFile.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\EncryptFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\418\SymmetricalEncrypt\EncryptFile\obj\Debug\EncryptFile.pdb

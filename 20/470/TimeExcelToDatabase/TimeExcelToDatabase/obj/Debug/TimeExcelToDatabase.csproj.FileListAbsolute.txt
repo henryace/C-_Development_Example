@@ -1,0 +1,30 @@
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Frm_Main.resources
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Properties.Resources.resources
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.exe
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.pdb
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.exe
+E:\源码\C#范例大全\19\022\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\Microsoft.Office.Interop.Access.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\dao.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Frm_Main.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\范例大全系列\C#范例大全（卷一）光盘\小科\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\TimeExcelToDatabase.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\bin\Debug\dao.dll
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\20\470\TimeExcelToDatabase\TimeExcelToDatabase\obj\Debug\TimeExcelToDatabase.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WordToTxt">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\WordToTxt.sln">
+</Property><Property Name="Date" Value="2012年10月16日">
+</Property><Property Name="Time" Value="下午 16:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WordToTxt.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt.sln">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\WordToTxt.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\WordToTxt.csproj">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Program.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\441\WordToTxt\Backup\WordToTxt\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\WordToTxt.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="WordToTxt" Source="WordToTxt\WordToTxt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WordToTxt.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WordToTxt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordToTxt" Source="WordToTxt\WordToTxt.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

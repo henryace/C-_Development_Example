@@ -1,0 +1,47 @@
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Frm_Main.resources
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Frm_Browser.resources
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\源码\C#范例大全\21\055\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Frm_Browser.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\22\548\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.pdb

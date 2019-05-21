@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ShowBusStation">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\ShowBusStation.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 17:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ShowBusStation.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation.sln">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\ShowBusStation.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\ShowBusStation.csproj">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Form1.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Program.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\121\ShowBusStation\Backup\ShowBusStation\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\ShowBusStation.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ShowBusStation" Source="ShowBusStation\ShowBusStation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ShowBusStation.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ShowBusStation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShowBusStation" Source="ShowBusStation\ShowBusStation.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

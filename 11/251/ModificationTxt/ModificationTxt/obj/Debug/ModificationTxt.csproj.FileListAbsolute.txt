@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\bin\Debug\ModificationTxt.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\bin\Debug\ModificationTxt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\bin\Debug\ModificationTxt.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\ModificationTxt.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\ModificationTxt.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\ModificationTxt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\251\ModificationTxt\ModificationTxt\obj\Debug\ModificationTxt.pdb

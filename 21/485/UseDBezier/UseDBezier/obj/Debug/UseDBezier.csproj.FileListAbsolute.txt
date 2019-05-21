@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\bin\Debug\UseDBezier.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\bin\Debug\UseDBezier.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\bin\Debug\UseDBezier.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\UseDBezier.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\UseDBezier.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\UseDBezier.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\21\485\UseDBezier\UseDBezier\obj\Debug\UseDBezier.pdb

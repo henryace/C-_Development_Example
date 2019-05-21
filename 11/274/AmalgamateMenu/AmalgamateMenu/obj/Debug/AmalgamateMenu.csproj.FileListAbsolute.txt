@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\bin\Debug\AmalgamateMenu.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\bin\Debug\AmalgamateMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\bin\Debug\AmalgamateMenu.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\AmalgamateMenu.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\AmalgamateMenu.Form2.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\AmalgamateMenu.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\AmalgamateMenu.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\274\AmalgamateMenu\AmalgamateMenu\obj\Debug\AmalgamateMenu.pdb

@@ -1,0 +1,13 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\bin\Debug\MDIVerticalSort.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\bin\Debug\MDIVerticalSort.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\bin\Debug\MDIVerticalSort.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.Frm_ChildOne.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.Frm_ChildThree.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.Frm_ChildTwo.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\10\211\MDIVerticalSort\MDIVerticalSort\obj\Debug\MDIVerticalSort.pdb

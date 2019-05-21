@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\bin\Debug\DrawColumn.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\bin\Debug\DrawColumn.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\bin\Debug\DrawColumn.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\DrawColumn.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\DrawColumn.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\DrawColumn.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\23\552\DrawColumn\DrawColumn\obj\Debug\DrawColumn.pdb

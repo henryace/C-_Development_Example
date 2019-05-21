@@ -1,0 +1,11 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\bin\Debug\WordToHTML.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\bin\Debug\WordToHTML.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\bin\Debug\WordToHTML.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\WordToHTML.csproj.ResolveComReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\WordToHTML.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\WordToHTML.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\WordToHTML.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\19\447\WordToHTML\WordToHTML\obj\Debug\WordToHTML.pdb

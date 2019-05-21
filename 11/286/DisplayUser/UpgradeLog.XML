@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DisplayUser">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\DisplayUser.sln">
+</Property><Property Name="Date" Value="2012年7月3日">
+</Property><Property Name="Time" Value="下午 13:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DisplayUser.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser.sln">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\DisplayUser.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\DisplayUser.csproj">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Login.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Login.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Login.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Program.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Login.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Login.resx">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\286\DisplayUser\Backup\DisplayUser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\DisplayUser.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DisplayUser" Source="DisplayUser\DisplayUser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DisplayUser.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DisplayUser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DisplayUser" Source="DisplayUser\DisplayUser.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

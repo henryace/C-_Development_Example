@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\bin\Debug\ManageFileByType.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\bin\Debug\ManageFileByType.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\bin\Debug\ManageFileByType.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\ManageFileByType.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\ManageFileByType.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\ManageFileByType.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\16\398\ManageFileByType\ManageFileByType\obj\Debug\ManageFileByType.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\bin\Debug\SortOrStatistics.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\bin\Debug\SortOrStatistics.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\bin\Debug\SortOrStatistics.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\SortOrStatistics.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\SortOrStatistics.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\SortOrStatistics.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\252\SortOrStatistics\SortOrStatistics\obj\Debug\SortOrStatistics.pdb

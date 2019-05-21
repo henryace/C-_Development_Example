@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\ROT13Encrypt.Form1.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\ROT13Encrypt.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\bin\Debug\ROT13Encrypt.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\bin\Debug\ROT13Encrypt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\bin\Debug\ROT13Encrypt.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\ROT13Encrypt.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\18\417\ROT13Encrypt\ROT13Encrypt\obj\Debug\ROT13Encrypt.pdb

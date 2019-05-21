@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\bin\Debug\NoAddAndRemoveLine.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\bin\Debug\NoAddAndRemoveLine.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\bin\Debug\NoAddAndRemoveLine.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\NoAddAndRemoveLine.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\NoAddAndRemoveLine.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\NoAddAndRemoveLine.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\331\NoAddAndRemoveLine\NoAddAndRemoveLine\obj\Debug\NoAddAndRemoveLine.pdb

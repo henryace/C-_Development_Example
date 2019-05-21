@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\bin\Debug\ImageNavigationForm.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\bin\Debug\ImageNavigationForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\bin\Debug\ImageNavigationForm.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\ImageNavigationForm.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\ImageNavigationForm.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\ImageNavigationForm.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\08\177\ImageNavigationForm\ImageNavigationForm\obj\Debug\ImageNavigationForm.pdb

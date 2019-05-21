@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\bin\x86\Debug\MoveData.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\bin\x86\Debug\MoveData.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\bin\x86\Debug\MoveData.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\MoveData.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\MoveData.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\MoveData.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\249\MoveData\MoveData\obj\x86\Debug\MoveData.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\bin\Debug\SelectXMLByHasTable.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\bin\Debug\SelectXMLByHasTable.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\bin\Debug\SelectXMLByHasTable.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\SelectXMLByHasTable.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\SelectXMLByHasTable.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\SelectXMLByHasTable.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\04\107\SelectXMLByHasTable\SelectXMLByHasTable\obj\Debug\SelectXMLByHasTable.pdb

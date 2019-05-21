@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GenerateButton">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\GenerateButton.sln">
+</Property><Property Name="Date" Value="2012年5月23日">
+</Property><Property Name="Time" Value="下午 17:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GenerateButton.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton.sln">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\GenerateButton.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\GenerateButton.csproj">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Program.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\11\220\GenerateButton\Backup\GenerateButton\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\GenerateButton.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="GenerateButton" Source="GenerateButton\GenerateButton.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GenerateButton.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="GenerateButton.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenerateButton" Source="GenerateButton\GenerateButton.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

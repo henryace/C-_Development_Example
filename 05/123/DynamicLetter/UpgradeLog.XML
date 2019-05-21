@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DynamicLetter">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\DynamicLetter.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 21:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DynamicLetter.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter.sln">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\DynamicLetter.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\DynamicLetter.csproj">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Form1.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Form1.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Form1.designer.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Program.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="DynamicLetter" Source="DynamicLetter\bin\Debug\bc.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\bin\Debug\bc.jpg">
+</Event><Event ErrorLevel="2" Project="DynamicLetter" Source="DynamicLetter\bin\Debug\text.jpg" Description="無法將檔案備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\bin\Debug\text.jpg">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Form1.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\05\123\DynamicLetter\Backup\DynamicLetter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\DynamicLetter.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DynamicLetter" Source="DynamicLetter\DynamicLetter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DynamicLetter.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DynamicLetter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DynamicLetter" Source="DynamicLetter\DynamicLetter.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

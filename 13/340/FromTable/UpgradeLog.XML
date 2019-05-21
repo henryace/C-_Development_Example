@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FromTable">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\FromTable.sln">
+</Property><Property Name="Date" Value="2012年10月7日">
+</Property><Property Name="Time" Value="下午 23:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FromTable.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable.sln">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\FromTable.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\FromTable.csproj">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\DataTier.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\DataTier.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Frm_Main.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Program.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\13\340\FromTable\Backup\FromTable\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\FromTable.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="FromTable" Source="FromTable\FromTable.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FromTable.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="FromTable.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FromTable" Source="FromTable\FromTable.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

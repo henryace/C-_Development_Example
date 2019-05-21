@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageInFormCenter">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\ImageInFormCenter.sln">
+</Property><Property Name="Date" Value="2012年5月21日">
+</Property><Property Name="Time" Value="下午 13:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImageInFormCenter.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter.sln">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\ImageInFormCenter.csproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\ImageInFormCenter.csproj">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Frm_Main.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Frm_Main.designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Frm_Main.designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Program.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Program.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Properties\Settings.settings" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Frm_Main.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\Properties\Resources.resx" Description="檔案已成功備份為 D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\07\172\ImageInFormCenter\Backup\ImageInFormCenter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\ImageInFormCenter.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ImageInFormCenter" Source="ImageInFormCenter\ImageInFormCenter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImageInFormCenter.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ImageInFormCenter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImageInFormCenter" Source="ImageInFormCenter\ImageInFormCenter.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

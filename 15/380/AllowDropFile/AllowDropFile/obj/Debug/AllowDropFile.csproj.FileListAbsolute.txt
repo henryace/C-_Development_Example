@@ -1,0 +1,10 @@
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\bin\Debug\AllowDropFile.exe.config
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\bin\Debug\AllowDropFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\bin\Debug\AllowDropFile.pdb
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\AllowDropFile.Frm_Main.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\AllowDropFile.Properties.Resources.resources
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\AllowDropFile.exe
+D:\Desktop\big5\清華C#\C#開發實戰1200例12.2 - 繁體\CODE\15\380\AllowDropFile\AllowDropFile\obj\Debug\AllowDropFile.pdb
